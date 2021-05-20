@@ -3,18 +3,11 @@
 <p id="demo"></p>
 <script>
 
-fetch('https://apps.noc-innovations.co.uk/api/polpred-api/latest/compute-spatial?key=L7F846XPXSNZgp8m&lat_n=55&lng_w=-5.7&lat_s=53.3&lng_e=-3.4&dt=2021-09-03T23:00:00Z').then(
-function(cco){ return cco.text();}
-).then(
-function(bhw){
-data_function(bhw); //calling and passing json to another function data_function
-}
-)
-
-//another functions
-function data_function(data){ 
-document.getElementById("demo").innerHTML = data;
-}
+(async () => {
+  const response = await fetch('https://belowhighwater.github.io/TideWaves/');
+  const text = await response.text();
+  console.log(text);
+})()
 
 
 
