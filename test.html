@@ -3,7 +3,7 @@
 <p id="demo"></p>
 <script>
 
-fetch('https://data.channelcoast.org/observations/waves/latest.geojson?key=d5eb113b868a6c3035c2368cf97dfbf4').then(
+fetch('https://apps.noc-innovations.co.uk/api/polpred-api/latest/compute-spatial?key=L7F846XPXSNZgp8m&lat_n=55&lng_w=-5.7&lat_s=53.3&lng_e=-3.4&dt=2021-09-03T23:00:00Z').then(
 function(cco){ return cco.text();}
 ).then(
 function(bhw){
@@ -15,6 +15,7 @@ data_function(bhw); //calling and passing json to another function data_function
 function data_function(data){ 
 document.getElementById("demo").innerHTML = data;
 }
+
 
 
 </script>
