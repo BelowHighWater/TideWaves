@@ -2,11 +2,10 @@
 <body>
 <script>
 fetch('https://data.channelcoast.org/observations/waves/latest.geojson?key=d5eb113b868a6c3035c2368cf97dfbf4')
-  .then(response => {
-	response.text().then(text => {
-	console.log(text)
-	})
-	})
+  	.then(response => response.text())
+ 	.then(bodyText => {
+	console.log(bodyText)
+	});
 
 </script>
 </body>
