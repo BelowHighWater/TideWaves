@@ -27,7 +27,7 @@ xmlDoc = parser.parseFromString(data_1,"text/html");
 let i = 0;
 do {
   i += 1;
-  x = xmlDoc.getElementsByTagName("name")[i];
+  x = xmlDoc.getElementsByTagName("ms:sensor")[i];
   y = x.childNodes[0];
   y = y.nodeValue;	
 } while (y !== "Chesil");
