@@ -6,7 +6,7 @@
 var obj
 
 fetch('https://data.channelcoast.org/observations/waves/latest.geojson?key=d5eb113b868a6c3035c2368cf97dfbf4')
-.then(cco => cco.text())
+.then(res => res.text())
 console.log(cco)
 .then(data => obj = data)
 console.log(obj)
