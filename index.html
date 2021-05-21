@@ -3,16 +3,25 @@
 <p id="demo"></p>
 <script>
 
-var cco
+async fetchExam(id) {
+        try {
+            const response = await fetch('https://data.channelcoast.org/observations/waves/latest.geojson?key=d5eb113b868a6c3035c2368cf97dfbf4');
+            const exam = await response.text();
+            return exam;
+        } catch (error) {
+            console.error(error);
+        }
+    }
 
-fetch('https://data.channelcoast.org/observations/waves/latest.geojson?key=d5eb113b868a6c3035c2368cf97dfbf4')
-.then(response => response.text())
-console.log(response);
+async renderExam(id) {
+        const exam = await fetchExam(id);
+        console.log(exam);
+}
 
 //another functions
-function data_function(data){ 
-document.getElementById("demo").innerText = data;
-}
+//function data_function(data){ 
+//document.getElementById("demo").innerText = data;
+//}
 
 
 </script>
