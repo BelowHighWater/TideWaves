@@ -1,0 +1,62 @@
+<html>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<body>
+<style> body {background-color: rgba(201, 76, 76, 0.1);} </style>
+
+<img id="dir" src="dir_arrow.png" width="27" height="44" style=transform:rotate(90.100deg)><img id="wave" src="wave.png" width="55" height="44"></img><img id="bloke" src="bloke.png" width="27" height="44""></img>
+
+
+<script>
+
+fetch('https://data.channelcoast.org/observations/waves/latest?key=d5eb113b868a6c3035c2368cf97dfbf4')
+    .then(response => response.text())
+    .then(data => printIt(data))
+
+let printIt = (data) => {
+    console.info(data)
+    parse_output(data)
+}
+
+
+//another functions
+function parse_output(data_0){ 
+data_1 = String(data_0);
+parser = new DOMParser();
+xmlDoc = parser.parseFromString(data_1,"text/html");
+
+let i = 0;
+do {
+  i += 1;
+  x = xmlDoc.getElementsByTagName("name")[i];
+  y = x.childNodes[0];
+  y = y.nodeValue;	
+} while (y !== "Chesil");
+h = xmlDoc.getElementsByTagName("ms:hs")[i];
+h = h.childNodes[0];
+h = h.nodeValue;
+console.log(h);
+
+d = xmlDoc.getElementsByTagName("ms:value")[i];
+d = d.childNodes[0];
+d = d.nodeValue;
+waveicon(h);
+diricon(d)
+}
+
+function waveicon(height) {
+iconheight = height/1.8 * 44;
+iconwidth = height/1.8 * 55;
+document.getElementById("wave").height = iconheight;
+document.getElementById("wave").width = iconwidth;
+}
+
+function diricon(azi) {
+direction = azi + "deg";
+rot = "transform:rotate("+direction+")";
+document.getElementById("dir").style = rot;
+}
+
+
+</script>
+</body>
+</html>
