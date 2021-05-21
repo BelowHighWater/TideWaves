@@ -7,8 +7,10 @@ var obj
 
 fetch('https://data.channelcoast.org/observations/waves/latest.geojson?key=d5eb113b868a6c3035c2368cf97dfbf4')
 .then(cco => cco.text())
+console.log(cco)
 .then(data => obj = data)
-.then(data_function(obj)); //calling and passing json to another function data_function
+console.log(obj)
+.then(data_function(obj));
 
 //another functions
 function data_function(data){ 
