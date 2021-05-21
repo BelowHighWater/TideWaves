@@ -3,14 +3,13 @@
 <p id="demo"></p>
 <script>
 
-var obj
+var cco
 
 fetch('https://data.channelcoast.org/observations/waves/latest.geojson?key=d5eb113b868a6c3035c2368cf97dfbf4')
-.then(res => res.text())
-console.log(res)
-.then(data => obj = data)
-console.log(obj)
-.then(data_function(obj));
+.then(cco => response.text())
+.then((cco) => {
+console.log(cco);
+})
 
 //another functions
 function data_function(data){ 
