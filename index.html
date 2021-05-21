@@ -3,13 +3,12 @@
 <p id="demo"></p>
 <script>
 
-fetch('https://data.channelcoast.org/observations/waves/latest.geojson?key=d5eb113b868a6c3035c2368cf97dfbf4').then(
-function(cco){ return cco.text();}
-).then(
-function(bhw){
-data_function(bhw); //calling and passing json to another function data_function
-}
-)
+var obj
+
+fetch('https://data.channelcoast.org/observations/waves/latest.geojson?key=d5eb113b868a6c3035c2368cf97dfbf4')
+.then(cco => cco.text())
+.then(data => obj = data)
+.then(data_function(obj)); //calling and passing json to another function data_function
 
 //another functions
 function data_function(data){ 
