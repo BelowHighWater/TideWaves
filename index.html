@@ -17,20 +17,6 @@ document.getElementById("demo").innerHTML = data;
 }
 
 
-const xhr = new XMLHttpRequest();
-
-xhr.onload = function() {
-  dump(xhr.responseXML.documentElement.nodeName);
-}
-
-xhr.onerror = function() {
-  dump("Error while getting XML.");
-}
-
-xhr.open("GET", "https://data.channelcoast.org/observations/waves/latest.geojson?key=d5eb113b868a6c3035c2368cf97dfbf4");
-xhr.responseType = "document";
-xhr.send();
-
 </script>
 </body>
 </html>

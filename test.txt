@@ -1,0 +1,1918 @@
+<gml:featureMember> 
+      <ms:waves fid="waves.'97'"> 
+        <gml:boundedBy> 
+        	<gml:Box srsName="EPSG:4326"> 
+        		<gml:coordinates>-4.2755300000,51.0593800000 -4.2755300000,51.0593800000</gml:coordinates> 
+        	</gml:Box> 
+        </gml:boundedBy> 
+        <ms:msGeometry> 
+        <gml:Point srsName="EPSG:4326"> 
+          <gml:coordinates>-4.2755300000,51.0593800000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometry> 
+        <ms:msGeometryOSGB> 
+        <gml:Point srsName="EPSG:27700"> 
+          <gml:coordinates>240538.000,131226.000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometryOSGB> 
+	<ms:id>97</ms:id>
+	<ms:sensor>Bideford Bay</ms:sensor>
+        <ms:date>20210520#200000</ms:date>
+        <ms:value>278.400</ms:value>
+        <ms:hs>10.160</ms:hs>
+        <ms:type>waves</ms:type>
+        <ms:sst>11.800</ms:sst>
+        <ms:tp>14.290</ms:tp>
+        <ms:tz>12.500</ms:tz>
+      </ms:waves> 
+    </gml:featureMember> 
+
+     <gml:featureMember> 
+      <ms:waves fid="waves.'122'"> 
+        <gml:boundedBy> 
+        	<gml:Box srsName="EPSG:4326"> 
+        		<gml:coordinates>1.1025800000,53.0574200000 1.1025800000,53.0574200000</gml:coordinates> 
+        	</gml:Box> 
+        </gml:boundedBy> 
+        <ms:msGeometry> 
+        <gml:Point srsName="EPSG:4326"> 
+          <gml:coordinates>1.1025800000,53.0574200000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometry> 
+        <ms:msGeometryOSGB> 
+        <gml:Point srsName="EPSG:27700"> 
+          <gml:coordinates>608074.676,355638.545</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometryOSGB> 
+	<ms:id>122</ms:id>
+	<ms:sensor>Blakeney Overfalls</ms:sensor>
+        <ms:date>20210520#203000</ms:date>
+        <ms:value>201.000</ms:value>
+        <ms:hs>0.940</ms:hs>
+        <ms:type>waves</ms:type>
+        <ms:sst>10.700</ms:sst>
+        <ms:tp>3.100</ms:tp>
+        <ms:tz>3.000</ms:tz>
+      </ms:waves> 
+    </gml:featureMember> 
+
+     <gml:featureMember> 
+      <ms:waves fid="waves.'66'"> 
+        <gml:boundedBy> 
+        	<gml:Box srsName="EPSG:4326"> 
+        		<gml:coordinates>-1.8398500000,50.7120300000 -1.8398500000,50.7120300000</gml:coordinates> 
+        	</gml:Box> 
+        </gml:boundedBy> 
+        <ms:msGeometry> 
+        <gml:Point srsName="EPSG:4326"> 
+          <gml:coordinates>-1.8398500000,50.7120300000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometry> 
+        <ms:msGeometryOSGB> 
+        <gml:Point srsName="EPSG:27700"> 
+          <gml:coordinates>411427.000,90204.000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometryOSGB> 
+	<ms:id>66</ms:id>
+	<ms:sensor>Boscombe</ms:sensor>
+        <ms:date>20210520#193000</ms:date>
+        <ms:value>196.900</ms:value>
+        <ms:hs>1.790</ms:hs>
+        <ms:type>waves</ms:type>
+        <ms:sst>12.250</ms:sst>
+        <ms:tp>7.690</ms:tp>
+        <ms:tz>4.494</ms:tz>
+      </ms:waves> 
+    </gml:featureMember> 
+
+     <gml:featureMember> 
+      <ms:waves fid="waves.'67'"> 
+        <gml:boundedBy> 
+        	<gml:Box srsName="EPSG:4326"> 
+        		<gml:coordinates>-0.8380100000,50.7242800000 -0.8380100000,50.7242800000</gml:coordinates> 
+        	</gml:Box> 
+        </gml:boundedBy> 
+        <ms:msGeometry> 
+        <gml:Point srsName="EPSG:4326"> 
+          <gml:coordinates>-0.8380100000,50.7242800000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometry> 
+        <ms:msGeometryOSGB> 
+        <gml:Point srsName="EPSG:27700"> 
+          <gml:coordinates>482157.000,92123.000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometryOSGB> 
+	<ms:id>67</ms:id>
+	<ms:sensor>Bracklesham Bay</ms:sensor>
+        <ms:date>20210520#203000</ms:date>
+        <ms:value>213.800</ms:value>
+        <ms:hs>2.680</ms:hs>
+        <ms:type>waves</ms:type>
+        <ms:sst>12.300</ms:sst>
+        <ms:tp>8.330</ms:tp>
+        <ms:tz>5.714</ms:tz>
+      </ms:waves> 
+    </gml:featureMember> 
+
+     <gml:featureMember> 
+      <ms:waves fid="waves.'120'"> 
+        <gml:boundedBy> 
+        	<gml:Box srsName="EPSG:4326"> 
+        		<gml:coordinates>0.4465800000,53.2450900000 0.4465800000,53.2450900000</gml:coordinates> 
+        	</gml:Box> 
+        </gml:boundedBy> 
+        <ms:msGeometry> 
+        <gml:Point srsName="EPSG:4326"> 
+          <gml:coordinates>0.4465800000,53.2450900000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometry> 
+        <ms:msGeometryOSGB> 
+        <gml:Point srsName="EPSG:27700"> 
+          <gml:coordinates>563376.595,374769.781</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometryOSGB> 
+	<ms:id>120</ms:id>
+	<ms:sensor>Chapel Point</ms:sensor>
+        <ms:date>20210520#200000</ms:date>
+        <ms:value>140.600</ms:value>
+        <ms:hs>1.200</ms:hs>
+        <ms:type>waves</ms:type>
+        <ms:sst>11.550</ms:sst>
+        <ms:tp>4.760</ms:tp>
+        <ms:tz>3.670</ms:tz>
+      </ms:waves> 
+    </gml:featureMember> 
+
+     <gml:featureMember> 
+      <ms:waves fid="waves.'68'"> 
+        <gml:boundedBy> 
+        	<gml:Box srsName="EPSG:4326"> 
+        		<gml:coordinates>-2.5231900000,50.6030600000 -2.5231900000,50.6030600000</gml:coordinates> 
+        	</gml:Box> 
+        </gml:boundedBy> 
+        <ms:msGeometry> 
+        <gml:Point srsName="EPSG:4326"> 
+          <gml:coordinates>-2.5231900000,50.6030600000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometry> 
+        <ms:msGeometryOSGB> 
+        <gml:Point srsName="EPSG:27700"> 
+          <gml:coordinates>363150.000,78203.000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometryOSGB> 
+	<ms:id>68</ms:id>
+	<ms:sensor>Chesil</ms:sensor>
+        <ms:date>20210520#203000</ms:date>
+        <ms:value>220.800</ms:value>
+        <ms:hs>3.600</ms:hs>
+        <ms:type>waves</ms:type>
+        <ms:sst>11.350</ms:sst>
+        <ms:tp>9.090</ms:tp>
+        <ms:tz>6.154</ms:tz>
+      </ms:waves> 
+    </gml:featureMember> 
+
+     <gml:featureMember> 
+      <ms:waves fid="waves.'104'"> 
+        <gml:boundedBy> 
+        	<gml:Box srsName="EPSG:4326"> 
+        		<gml:coordinates>-3.1952400000,53.8952700000 -3.1952400000,53.8952700000</gml:coordinates> 
+        	</gml:Box> 
+        </gml:boundedBy> 
+        <ms:msGeometry> 
+        <gml:Point srsName="EPSG:4326"> 
+          <gml:coordinates>-3.1952400000,53.8952700000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometry> 
+        <ms:msGeometryOSGB> 
+        <gml:Point srsName="EPSG:27700"> 
+          <gml:coordinates>321524.000,445012.000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometryOSGB> 
+	<ms:id>104</ms:id>
+	<ms:sensor>Cleveleys</ms:sensor>
+        <ms:date>20210520#203000</ms:date>
+        <ms:value>202.500</ms:value>
+        <ms:hs>1.690</ms:hs>
+        <ms:type>waves</ms:type>
+        <ms:sst>12.100</ms:sst>
+        <ms:tp>5.000</ms:tp>
+        <ms:tz>4.348</ms:tz>
+      </ms:waves> 
+    </gml:featureMember> 
+
+     <gml:featureMember> 
+      <ms:waves fid="waves.'103'"> 
+        <gml:boundedBy> 
+        	<gml:Box srsName="EPSG:4326"> 
+        		<gml:coordinates>-3.4168100000,50.5801400000 -3.4168100000,50.5801400000</gml:coordinates> 
+        	</gml:Box> 
+        </gml:boundedBy> 
+        <ms:msGeometry> 
+        <gml:Point srsName="EPSG:4326"> 
+          <gml:coordinates>-3.4168100000,50.5801400000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometry> 
+        <ms:msGeometryOSGB> 
+        <gml:Point srsName="EPSG:27700"> 
+          <gml:coordinates>299739.000,76510.000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometryOSGB> 
+	<ms:id>103</ms:id>
+	<ms:sensor>Dawlish</ms:sensor>
+        <ms:date>20210520#200000</ms:date>
+        <ms:value>191.300</ms:value>
+        <ms:hs>1.410</ms:hs>
+        <ms:type>waves</ms:type>
+        <ms:sst>11.300</ms:sst>
+        <ms:tp>5.000</ms:tp>
+        <ms:tz>3.883</ms:tz>
+      </ms:waves> 
+    </gml:featureMember> 
+
+     <gml:featureMember> 
+      <ms:waves fid="waves.'90'"> 
+        <gml:boundedBy> 
+        	<gml:Box srsName="EPSG:4326"> 
+        		<gml:coordinates>1.4110000000,51.2239000000 1.4110000000,51.2239000000</gml:coordinates> 
+        	</gml:Box> 
+        </gml:boundedBy> 
+        <ms:msGeometry> 
+        <gml:Point srsName="EPSG:4326"> 
+          <gml:coordinates>1.4110000000,51.2239000000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometry> 
+        <ms:msGeometryOSGB> 
+        <gml:Point srsName="EPSG:27700"> 
+          <gml:coordinates>638145.000,152700.000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometryOSGB> 
+	<ms:id>90</ms:id>
+	<ms:sensor>Deal Pier</ms:sensor>
+        <ms:date>20210520#130002</ms:date>
+        <ms:value>None</ms:value>
+        <ms:hs>0.000</ms:hs>
+        <ms:type>waves</ms:type>
+        <ms:sst>None</ms:sst>
+        <ms:tp>None</ms:tp>
+        <ms:tz>None</ms:tz>
+      </ms:waves> 
+    </gml:featureMember> 
+
+     <gml:featureMember> 
+      <ms:waves fid="waves.'125'"> 
+        <gml:boundedBy> 
+        	<gml:Box srsName="EPSG:4326"> 
+        		<gml:coordinates>1.3939100000,51.9387600000 1.3939100000,51.9387600000</gml:coordinates> 
+        	</gml:Box> 
+        </gml:boundedBy> 
+        <ms:msGeometry> 
+        <gml:Point srsName="EPSG:4326"> 
+          <gml:coordinates>1.3939100000,51.9387600000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometry> 
+        <ms:msGeometryOSGB> 
+        <gml:Point srsName="EPSG:27700"> 
+          <gml:coordinates>633388.987,232088.240</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometryOSGB> 
+	<ms:id>125</ms:id>
+	<ms:sensor>Felixstowe</ms:sensor>
+        <ms:date>20210520#190000</ms:date>
+        <ms:value>163.100</ms:value>
+        <ms:hs>1.210</ms:hs>
+        <ms:type>waves</ms:type>
+        <ms:sst>11.850</ms:sst>
+        <ms:tp>5.000</ms:tp>
+        <ms:tz>3.509</ms:tz>
+      </ms:waves> 
+    </gml:featureMember> 
+
+     <gml:featureMember> 
+      <ms:waves fid="waves.'69'"> 
+        <gml:boundedBy> 
+        	<gml:Box srsName="EPSG:4326"> 
+        		<gml:coordinates>1.1283700000,51.0627600000 1.1283700000,51.0627600000</gml:coordinates> 
+        	</gml:Box> 
+        </gml:boundedBy> 
+        <ms:msGeometry> 
+        <gml:Point srsName="EPSG:4326"> 
+          <gml:coordinates>1.1283700000,51.0627600000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometry> 
+        <ms:msGeometryOSGB> 
+        <gml:Point srsName="EPSG:27700"> 
+          <gml:coordinates>620013.000,133524.000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometryOSGB> 
+	<ms:id>69</ms:id>
+	<ms:sensor>Folkestone</ms:sensor>
+        <ms:date>20210520#200000</ms:date>
+        <ms:value>189.800</ms:value>
+        <ms:hs>1.250</ms:hs>
+        <ms:type>waves</ms:type>
+        <ms:sst>11.450</ms:sst>
+        <ms:tp>4.760</ms:tp>
+        <ms:tz>3.509</ms:tz>
+      </ms:waves> 
+    </gml:featureMember> 
+
+     <gml:featureMember> 
+      <ms:waves fid="waves.'70'"> 
+        <gml:boundedBy> 
+        	<gml:Box srsName="EPSG:4326"> 
+        		<gml:coordinates>1.4835200000,51.2508600000 1.4835200000,51.2508600000</gml:coordinates> 
+        	</gml:Box> 
+        </gml:boundedBy> 
+        <ms:msGeometry> 
+        <gml:Point srsName="EPSG:4326"> 
+          <gml:coordinates>1.4835200000,51.2508600000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometry> 
+        <ms:msGeometryOSGB> 
+        <gml:Point srsName="EPSG:27700"> 
+          <gml:coordinates>643179.000,155857.000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometryOSGB> 
+	<ms:id>70</ms:id>
+	<ms:sensor>Goodwin Sands</ms:sensor>
+        <ms:date>20210520#200000</ms:date>
+        <ms:value>194.100</ms:value>
+        <ms:hs>1.160</ms:hs>
+        <ms:type>waves</ms:type>
+        <ms:sst>10.950</ms:sst>
+        <ms:tp>4.550</ms:tp>
+        <ms:tz>3.252</ms:tz>
+      </ms:waves> 
+    </gml:featureMember> 
+
+     <gml:featureMember> 
+      <ms:waves fid="waves.'118'"> 
+        <gml:boundedBy> 
+        	<gml:Box srsName="EPSG:4326"> 
+        		<gml:coordinates>-3.5030700000,53.4769300000 -3.5030700000,53.4769300000</gml:coordinates> 
+        	</gml:Box> 
+        </gml:boundedBy> 
+        <ms:msGeometry> 
+        <gml:Point srsName="EPSG:4326"> 
+          <gml:coordinates>-3.5030700000,53.4769300000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometry> 
+        <ms:msGeometryOSGB> 
+        <gml:Point srsName="EPSG:27700"> 
+          <gml:coordinates>300222.000,398884.000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometryOSGB> 
+	<ms:id>118</ms:id>
+	<ms:sensor>Gwynt y Mor</ms:sensor>
+        <ms:date>20210317#073000</ms:date>
+        <ms:value>306.600</ms:value>
+        <ms:hs>0.750</ms:hs>
+        <ms:type>waves</ms:type>
+        <ms:sst>7.000</ms:sst>
+        <ms:tp>4.550</ms:tp>
+        <ms:tz>3.509</ms:tz>
+      </ms:waves> 
+    </gml:featureMember> 
+
+     <gml:featureMember> 
+      <ms:waves fid="waves.'123'"> 
+        <gml:boundedBy> 
+        	<gml:Box srsName="EPSG:4326"> 
+        		<gml:coordinates>1.5492200000,52.8264200000 1.5492200000,52.8264200000</gml:coordinates> 
+        	</gml:Box> 
+        </gml:boundedBy> 
+        <ms:msGeometry> 
+        <gml:Point srsName="EPSG:4326"> 
+          <gml:coordinates>1.5492200000,52.8264200000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometry> 
+        <ms:msGeometryOSGB> 
+        <gml:Point srsName="EPSG:27700"> 
+          <gml:coordinates>639224.743,331323.977</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometryOSGB> 
+	<ms:id>123</ms:id>
+	<ms:sensor>Happisburgh</ms:sensor>
+        <ms:date>20210520#200000</ms:date>
+        <ms:value>92.800</ms:value>
+        <ms:hs>0.420</ms:hs>
+        <ms:type>waves</ms:type>
+        <ms:sst>12.050</ms:sst>
+        <ms:tp>5.260</ms:tp>
+        <ms:tz>3.200</ms:tz>
+      </ms:waves> 
+    </gml:featureMember> 
+
+     <gml:featureMember> 
+      <ms:waves fid="waves.'http://wavenet.cefas.co.uk/Map?ZoomTo=0.7549%2C50.7465 '"> 
+        <gml:boundedBy> 
+        	<gml:Box srsName="EPSG:4326"> 
+        		<gml:coordinates>0.7550000000,50.7465000000 0.7550000000,50.7465000000</gml:coordinates> 
+        	</gml:Box> 
+        </gml:boundedBy> 
+        <ms:msGeometry> 
+        <gml:Point srsName="EPSG:4326"> 
+          <gml:coordinates>0.7550000000,50.7465000000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometry> 
+        <ms:msGeometryOSGB> 
+        <gml:Point srsName="EPSG:27700"> 
+          <gml:coordinates>594453.736,97718.704</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometryOSGB> 
+	<ms:id>http://wavenet.cefas.co.uk/Map?ZoomTo=0.7549%2C50.7465 </ms:id>
+	<ms:sensor>Hastings</ms:sensor>
+        <ms:date>None</ms:date>
+        <ms:value>None</ms:value>
+        <ms:hs>None</ms:hs>
+        <ms:type>waves</ms:type>
+        <ms:sst>None</ms:sst>
+        <ms:tp>None</ms:tp>
+        <ms:tz>None</ms:tz>
+      </ms:waves> 
+    </gml:featureMember> 
+
+     <gml:featureMember> 
+      <ms:waves fid="waves.'126'"> 
+        <gml:boundedBy> 
+        	<gml:Box srsName="EPSG:4326"> 
+        		<gml:coordinates>0.5728880000,50.8508800000 0.5728880000,50.8508800000</gml:coordinates> 
+        	</gml:Box> 
+        </gml:boundedBy> 
+        <ms:msGeometry> 
+        <gml:Point srsName="EPSG:4326"> 
+          <gml:coordinates>0.5728880000,50.8508800000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometry> 
+        <ms:msGeometryOSGB> 
+        <gml:Point srsName="EPSG:27700"> 
+          <gml:coordinates>581206.000,108861.000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometryOSGB> 
+	<ms:id>126</ms:id>
+	<ms:sensor>Hastings Pier</ms:sensor>
+        <ms:date>20210520#203000</ms:date>
+        <ms:value>None</ms:value>
+        <ms:hs>0.935</ms:hs>
+        <ms:type>waves</ms:type>
+        <ms:sst>None</ms:sst>
+        <ms:tp>None</ms:tp>
+        <ms:tz>None</ms:tz>
+      </ms:waves> 
+    </gml:featureMember> 
+
+     <gml:featureMember> 
+      <ms:waves fid="waves.'71'"> 
+        <gml:boundedBy> 
+        	<gml:Box srsName="EPSG:4326"> 
+        		<gml:coordinates>-0.9594800000,50.7318100000 -0.9594800000,50.7318100000</gml:coordinates> 
+        	</gml:Box> 
+        </gml:boundedBy> 
+        <ms:msGeometry> 
+        <gml:Point srsName="EPSG:4326"> 
+          <gml:coordinates>-0.9594800000,50.7318100000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometry> 
+        <ms:msGeometryOSGB> 
+        <gml:Point srsName="EPSG:27700"> 
+          <gml:coordinates>473543.000,93141.000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometryOSGB> 
+	<ms:id>71</ms:id>
+	<ms:sensor>Hayling Island</ms:sensor>
+        <ms:date>20210520#203000</ms:date>
+        <ms:value>198.300</ms:value>
+        <ms:hs>2.050</ms:hs>
+        <ms:type>waves</ms:type>
+        <ms:sst>12.150</ms:sst>
+        <ms:tp>5.260</ms:tp>
+        <ms:tz>4.819</ms:tz>
+      </ms:waves> 
+    </gml:featureMember> 
+
+     <gml:featureMember> 
+      <ms:waves fid="waves.'89'"> 
+        <gml:boundedBy> 
+        	<gml:Box srsName="EPSG:4326"> 
+        		<gml:coordinates>1.1169200000,51.3822500000 1.1169200000,51.3822500000</gml:coordinates> 
+        	</gml:Box> 
+        </gml:boundedBy> 
+        <ms:msGeometry> 
+        <gml:Point srsName="EPSG:4326"> 
+          <gml:coordinates>1.1169200000,51.3822500000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometry> 
+        <ms:msGeometryOSGB> 
+        <gml:Point srsName="EPSG:27700"> 
+          <gml:coordinates>616870.000,169390.000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometryOSGB> 
+	<ms:id>89</ms:id>
+	<ms:sensor>Herne Bay</ms:sensor>
+        <ms:date>20210520#203000</ms:date>
+        <ms:value>None</ms:value>
+        <ms:hs>0.079</ms:hs>
+        <ms:type>waves</ms:type>
+        <ms:sst>None</ms:sst>
+        <ms:tp>None</ms:tp>
+        <ms:tz>None</ms:tz>
+      </ms:waves> 
+    </gml:featureMember> 
+
+     <gml:featureMember> 
+      <ms:waves fid="waves.'http://cefasmapping.defra.gov.uk/Map?ZoomTo=-3.1594%2C51.2321'"> 
+        <gml:boundedBy> 
+        	<gml:Box srsName="EPSG:4326"> 
+        		<gml:coordinates>-3.1332200000,51.2154400000 -3.1332200000,51.2154400000</gml:coordinates> 
+        	</gml:Box> 
+        </gml:boundedBy> 
+        <ms:msGeometry> 
+        <gml:Point srsName="EPSG:4326"> 
+          <gml:coordinates>-3.1332200000,51.2154400000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometry> 
+        <ms:msGeometryOSGB> 
+        <gml:Point srsName="EPSG:27700"> 
+          <gml:coordinates>320946.530,146859.230</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometryOSGB> 
+	<ms:id>http://cefasmapping.defra.gov.uk/Map?ZoomTo=-3.1594%2C51.2321</ms:id>
+	<ms:sensor>Hinkley Point</ms:sensor>
+        <ms:date>None</ms:date>
+        <ms:value>None</ms:value>
+        <ms:hs>None</ms:hs>
+        <ms:type>waves</ms:type>
+        <ms:sst>None</ms:sst>
+        <ms:tp>None</ms:tp>
+        <ms:tz>None</ms:tz>
+      </ms:waves> 
+    </gml:featureMember> 
+
+     <gml:featureMember> 
+      <ms:waves fid="waves.'72'"> 
+        <gml:boundedBy> 
+        	<gml:Box srsName="EPSG:4326"> 
+        		<gml:coordinates>-0.0662400000,53.9169500000 -0.0662400000,53.9169500000</gml:coordinates> 
+        	</gml:Box> 
+        </gml:boundedBy> 
+        <ms:msGeometry> 
+        <gml:Point srsName="EPSG:4326"> 
+          <gml:coordinates>-0.0662400000,53.9169500000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometry> 
+        <ms:msGeometryOSGB> 
+        <gml:Point srsName="EPSG:27700"> 
+          <gml:coordinates>527077.000,448453.000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometryOSGB> 
+	<ms:id>72</ms:id>
+	<ms:sensor>Hornsea</ms:sensor>
+        <ms:date>20210520#200000</ms:date>
+        <ms:value>132.200</ms:value>
+        <ms:hs>1.320</ms:hs>
+        <ms:type>waves</ms:type>
+        <ms:sst>10.050</ms:sst>
+        <ms:tp>5.260</ms:tp>
+        <ms:tz>4.211</ms:tz>
+      </ms:waves> 
+    </gml:featureMember> 
+
+     <gml:featureMember> 
+      <ms:waves fid="waves.'http://wavenet.cefas.co.uk/Map?ZoomTo=-6.5453%2C49.8168 '"> 
+        <gml:boundedBy> 
+        	<gml:Box srsName="EPSG:4326"> 
+        		<gml:coordinates>-6.5453333333,49.8168333333 -6.5453333333,49.8168333333</gml:coordinates> 
+        	</gml:Box> 
+        </gml:boundedBy> 
+        <ms:msGeometry> 
+        <gml:Point srsName="EPSG:4326"> 
+          <gml:coordinates>-6.5453333333,49.8168333333</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometry> 
+        <ms:msGeometryOSGB> 
+        <gml:Point srsName="EPSG:27700"> 
+          <gml:coordinates>73162.050,645.257</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometryOSGB> 
+	<ms:id>http://wavenet.cefas.co.uk/Map?ZoomTo=-6.5453%2C49.8168 </ms:id>
+	<ms:sensor>Isles of Scilly</ms:sensor>
+        <ms:date>None</ms:date>
+        <ms:value>None</ms:value>
+        <ms:hs>None</ms:hs>
+        <ms:type>waves</ms:type>
+        <ms:sst>None</ms:sst>
+        <ms:tp>None</ms:tp>
+        <ms:tz>None</ms:tz>
+      </ms:waves> 
+    </gml:featureMember> 
+
+     <gml:featureMember> 
+      <ms:waves fid="waves.'http://wavenet.cefas.co.uk/Map?ZoomTo=-3.3549%2C53.5335 '"> 
+        <gml:boundedBy> 
+        	<gml:Box srsName="EPSG:4326"> 
+        		<gml:coordinates>-3.3548333333,53.5335000000 -3.3548333333,53.5335000000</gml:coordinates> 
+        	</gml:Box> 
+        </gml:boundedBy> 
+        <ms:msGeometry> 
+        <gml:Point srsName="EPSG:4326"> 
+          <gml:coordinates>-3.3548333333,53.5335000000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometry> 
+        <ms:msGeometryOSGB> 
+        <gml:Point srsName="EPSG:27700"> 
+          <gml:coordinates>310298.587,404946.411</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometryOSGB> 
+	<ms:id>http://wavenet.cefas.co.uk/Map?ZoomTo=-3.3549%2C53.5335 </ms:id>
+	<ms:sensor>Liverpool</ms:sensor>
+        <ms:date>None</ms:date>
+        <ms:value>None</ms:value>
+        <ms:hs>None</ms:hs>
+        <ms:type>waves</ms:type>
+        <ms:sst>None</ms:sst>
+        <ms:tp>None</ms:tp>
+        <ms:tz>None</ms:tz>
+      </ms:waves> 
+    </gml:featureMember> 
+
+     <gml:featureMember> 
+      <ms:waves fid="waves.'98'"> 
+        <gml:boundedBy> 
+        	<gml:Box srsName="EPSG:4326"> 
+        		<gml:coordinates>-4.4105800000,50.3388800000 -4.4105800000,50.3388800000</gml:coordinates> 
+        	</gml:Box> 
+        </gml:boundedBy> 
+        <ms:msGeometry> 
+        <gml:Point srsName="EPSG:4326"> 
+          <gml:coordinates>-4.4105800000,50.3388800000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometry> 
+        <ms:msGeometryOSGB> 
+        <gml:Point srsName="EPSG:27700"> 
+          <gml:coordinates>228542.000,51531.000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometryOSGB> 
+	<ms:id>98</ms:id>
+	<ms:sensor>Looe Bay</ms:sensor>
+        <ms:date>20210520#203000</ms:date>
+        <ms:value>209.500</ms:value>
+        <ms:hs>2.770</ms:hs>
+        <ms:type>waves</ms:type>
+        <ms:sst>11.250</ms:sst>
+        <ms:tp>10.000</ms:tp>
+        <ms:tz>5.797</ms:tz>
+      </ms:waves> 
+    </gml:featureMember> 
+
+     <gml:featureMember> 
+      <ms:waves fid="waves.'124'"> 
+        <gml:boundedBy> 
+        	<gml:Box srsName="EPSG:4326"> 
+        		<gml:coordinates>1.8173400000,52.4747700000 1.8173400000,52.4747700000</gml:coordinates> 
+        	</gml:Box> 
+        </gml:boundedBy> 
+        <ms:msGeometry> 
+        <gml:Point srsName="EPSG:4326"> 
+          <gml:coordinates>1.8173400000,52.4747700000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometry> 
+        <ms:msGeometryOSGB> 
+        <gml:Point srsName="EPSG:27700"> 
+          <gml:coordinates>659316.704,293282.568</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometryOSGB> 
+	<ms:id>124</ms:id>
+	<ms:sensor>Lowestoft</ms:sensor>
+        <ms:date>20210520#200000</ms:date>
+        <ms:value>177.200</ms:value>
+        <ms:hs>1.590</ms:hs>
+        <ms:type>waves</ms:type>
+        <ms:sst>10.300</ms:sst>
+        <ms:tp>5.260</ms:tp>
+        <ms:tz>3.810</ms:tz>
+      </ms:waves> 
+    </gml:featureMember> 
+
+     <gml:featureMember> 
+      <ms:waves fid="waves.'87'"> 
+        <gml:boundedBy> 
+        	<gml:Box srsName="EPSG:4326"> 
+        		<gml:coordinates>-1.5056700000,50.7404300000 -1.5056700000,50.7404300000</gml:coordinates> 
+        	</gml:Box> 
+        </gml:boundedBy> 
+        <ms:msGeometry> 
+        <gml:Point srsName="EPSG:4326"> 
+          <gml:coordinates>-1.5056700000,50.7404300000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometry> 
+        <ms:msGeometryOSGB> 
+        <gml:Point srsName="EPSG:27700"> 
+          <gml:coordinates>434877.000,93528.000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometryOSGB> 
+	<ms:id>87</ms:id>
+	<ms:sensor>Lymington</ms:sensor>
+        <ms:date>20210520#203000</ms:date>
+        <ms:value>None</ms:value>
+        <ms:hs>0.294</ms:hs>
+        <ms:type>waves</ms:type>
+        <ms:sst>None</ms:sst>
+        <ms:tp>None</ms:tp>
+        <ms:tz>None</ms:tz>
+      </ms:waves> 
+    </gml:featureMember> 
+
+     <gml:featureMember> 
+      <ms:waves fid="waves.'73'"> 
+        <gml:boundedBy> 
+        	<gml:Box srsName="EPSG:4326"> 
+        		<gml:coordinates>-1.6156600000,50.7125900000 -1.6156600000,50.7125900000</gml:coordinates> 
+        	</gml:Box> 
+        </gml:boundedBy> 
+        <ms:msGeometry> 
+        <gml:Point srsName="EPSG:4326"> 
+          <gml:coordinates>-1.6156600000,50.7125900000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometry> 
+        <ms:msGeometryOSGB> 
+        <gml:Point srsName="EPSG:27700"> 
+          <gml:coordinates>427297.000,90361.000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometryOSGB> 
+	<ms:id>73</ms:id>
+	<ms:sensor>Milford</ms:sensor>
+        <ms:date>20210520#203000</ms:date>
+        <ms:value>215.200</ms:value>
+        <ms:hs>2.250</ms:hs>
+        <ms:type>waves</ms:type>
+        <ms:sst>12.000</ms:sst>
+        <ms:tp>7.690</ms:tp>
+        <ms:tz>5.405</ms:tz>
+      </ms:waves> 
+    </gml:featureMember> 
+
+     <gml:featureMember> 
+      <ms:waves fid="waves.'74'"> 
+        <gml:boundedBy> 
+        	<gml:Box srsName="EPSG:4326"> 
+        		<gml:coordinates>-3.4681600000,51.2277200000 -3.4681600000,51.2277200000</gml:coordinates> 
+        	</gml:Box> 
+        </gml:boundedBy> 
+        <ms:msGeometry> 
+        <gml:Point srsName="EPSG:4326"> 
+          <gml:coordinates>-3.4681600000,51.2277200000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometry> 
+        <ms:msGeometryOSGB> 
+        <gml:Point srsName="EPSG:27700"> 
+          <gml:coordinates>297326.000,148693.000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometryOSGB> 
+	<ms:id>74</ms:id>
+	<ms:sensor>Minehead</ms:sensor>
+        <ms:date>20210520#200000</ms:date>
+        <ms:value>324.800</ms:value>
+        <ms:hs>1.380</ms:hs>
+        <ms:type>waves</ms:type>
+        <ms:sst>11.950</ms:sst>
+        <ms:tp>13.330</ms:tp>
+        <ms:tz>4.938</ms:tz>
+      </ms:waves> 
+    </gml:featureMember> 
+
+     <gml:featureMember> 
+      <ms:waves fid="waves.'105'"> 
+        <gml:boundedBy> 
+        	<gml:Box srsName="EPSG:4326"> 
+        		<gml:coordinates>-3.0668200000,53.9891400000 -3.0668200000,53.9891400000</gml:coordinates> 
+        	</gml:Box> 
+        </gml:boundedBy> 
+        <ms:msGeometry> 
+        <gml:Point srsName="EPSG:4326"> 
+          <gml:coordinates>-3.0668200000,53.9891400000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometry> 
+        <ms:msGeometryOSGB> 
+        <gml:Point srsName="EPSG:27700"> 
+          <gml:coordinates>329507.000,455604.000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometryOSGB> 
+	<ms:id>105</ms:id>
+	<ms:sensor>Morecambe Bay</ms:sensor>
+        <ms:date>20210520#203000</ms:date>
+        <ms:value>219.400</ms:value>
+        <ms:hs>1.570</ms:hs>
+        <ms:type>waves</ms:type>
+        <ms:sst>11.900</ms:sst>
+        <ms:tp>10.530</ms:tp>
+        <ms:tz>4.819</ms:tz>
+      </ms:waves> 
+    </gml:featureMember> 
+
+     <gml:featureMember> 
+      <ms:waves fid="waves.'110'"> 
+        <gml:boundedBy> 
+        	<gml:Box srsName="EPSG:4326"> 
+        		<gml:coordinates>-1.4787800000,55.1850900000 -1.4787800000,55.1850900000</gml:coordinates> 
+        	</gml:Box> 
+        </gml:boundedBy> 
+        <ms:msGeometry> 
+        <gml:Point srsName="EPSG:4326"> 
+          <gml:coordinates>-1.4787800000,55.1850900000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometry> 
+        <ms:msGeometryOSGB> 
+        <gml:Point srsName="EPSG:27700"> 
+          <gml:coordinates>433319.000,587938.000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometryOSGB> 
+	<ms:id>110</ms:id>
+	<ms:sensor>Newbiggin</ms:sensor>
+        <ms:date>20210520#200000</ms:date>
+        <ms:value>122.300</ms:value>
+        <ms:hs>2.270</ms:hs>
+        <ms:type>waves</ms:type>
+        <ms:sst>9.350</ms:sst>
+        <ms:tp>7.140</ms:tp>
+        <ms:tz>5.333</ms:tz>
+      </ms:waves> 
+    </gml:featureMember> 
+
+     <gml:featureMember> 
+      <ms:waves fid="waves.'121'"> 
+        <gml:boundedBy> 
+        	<gml:Box srsName="EPSG:4326"> 
+        		<gml:coordinates>0.4730800000,53.0560900000 0.4730800000,53.0560900000</gml:coordinates> 
+        	</gml:Box> 
+        </gml:boundedBy> 
+        <ms:msGeometry> 
+        <gml:Point srsName="EPSG:4326"> 
+          <gml:coordinates>0.4730800000,53.0560900000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometry> 
+        <ms:msGeometryOSGB> 
+        <gml:Point srsName="EPSG:27700"> 
+          <gml:coordinates>565995.981,354074.398</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometryOSGB> 
+	<ms:id>121</ms:id>
+	<ms:sensor>North Well</ms:sensor>
+        <ms:date>20210520#203000</ms:date>
+        <ms:value>225.000</ms:value>
+        <ms:hs>0.890</ms:hs>
+        <ms:type>waves</ms:type>
+        <ms:sst>11.300</ms:sst>
+        <ms:tp>4.100</ms:tp>
+        <ms:tz>3.200</ms:tz>
+      </ms:waves> 
+    </gml:featureMember> 
+
+     <gml:featureMember> 
+      <ms:waves fid="waves.'119'"> 
+        <gml:boundedBy> 
+        	<gml:Box srsName="EPSG:4326"> 
+        		<gml:coordinates>-3.1647770000,51.4346720000 -3.1647770000,51.4346720000</gml:coordinates> 
+        	</gml:Box> 
+        </gml:boundedBy> 
+        <ms:msGeometry> 
+        <gml:Point srsName="EPSG:4326"> 
+          <gml:coordinates>-3.1647770000,51.4346720000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometry> 
+        <ms:msGeometryOSGB> 
+        <gml:Point srsName="EPSG:27700"> 
+          <gml:coordinates>319130.000,171274.000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometryOSGB> 
+	<ms:id>119</ms:id>
+	<ms:sensor>Penarth</ms:sensor>
+        <ms:date>20210520#203000</ms:date>
+        <ms:value>None</ms:value>
+        <ms:hs>0.499</ms:hs>
+        <ms:type>waves</ms:type>
+        <ms:sst>None</ms:sst>
+        <ms:tp>None</ms:tp>
+        <ms:tz>None</ms:tz>
+      </ms:waves> 
+    </gml:featureMember> 
+
+     <gml:featureMember> 
+      <ms:waves fid="waves.'75'"> 
+        <gml:boundedBy> 
+        	<gml:Box srsName="EPSG:4326"> 
+        		<gml:coordinates>-5.5000300000,50.1126800000 -5.5000300000,50.1126800000</gml:coordinates> 
+        	</gml:Box> 
+        </gml:boundedBy> 
+        <ms:msGeometry> 
+        <gml:Point srsName="EPSG:4326"> 
+          <gml:coordinates>-5.5000300000,50.1126800000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometry> 
+        <ms:msGeometryOSGB> 
+        <gml:Point srsName="EPSG:27700"> 
+          <gml:coordinates>149633.000,29525.000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometryOSGB> 
+	<ms:id>75</ms:id>
+	<ms:sensor>Penzance</ms:sensor>
+        <ms:date>20210520#203000</ms:date>
+        <ms:value>199.700</ms:value>
+        <ms:hs>1.790</ms:hs>
+        <ms:type>waves</ms:type>
+        <ms:sst>11.700</ms:sst>
+        <ms:tp>9.090</ms:tp>
+        <ms:tz>4.598</ms:tz>
+      </ms:waves> 
+    </gml:featureMember> 
+
+     <gml:featureMember> 
+      <ms:waves fid="waves.'76'"> 
+        <gml:boundedBy> 
+        	<gml:Box srsName="EPSG:4326"> 
+        		<gml:coordinates>-5.1737000000,50.3537300000 -5.1737000000,50.3537300000</gml:coordinates> 
+        	</gml:Box> 
+        </gml:boundedBy> 
+        <ms:msGeometry> 
+        <gml:Point srsName="EPSG:4326"> 
+          <gml:coordinates>-5.1737000000,50.3537300000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometry> 
+        <ms:msGeometryOSGB> 
+        <gml:Point srsName="EPSG:27700"> 
+          <gml:coordinates>174245.000,55191.000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometryOSGB> 
+	<ms:id>76</ms:id>
+	<ms:sensor>Perranporth</ms:sensor>
+        <ms:date>20210520#200000</ms:date>
+        <ms:value>281.300</ms:value>
+        <ms:hs>5.430</ms:hs>
+        <ms:type>waves</ms:type>
+        <ms:sst>12.250</ms:sst>
+        <ms:tp>15.380</ms:tp>
+        <ms:tz>8.511</ms:tz>
+      </ms:waves> 
+    </gml:featureMember> 
+
+     <gml:featureMember> 
+      <ms:waves fid="waves.'77'"> 
+        <gml:boundedBy> 
+        	<gml:Box srsName="EPSG:4326"> 
+        		<gml:coordinates>0.4201200000,50.7814800000 0.4201200000,50.7814800000</gml:coordinates> 
+        	</gml:Box> 
+        </gml:boundedBy> 
+        <ms:msGeometry> 
+        <gml:Point srsName="EPSG:4326"> 
+          <gml:coordinates>0.4201200000,50.7814800000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometry> 
+        <ms:msGeometryOSGB> 
+        <gml:Point srsName="EPSG:27700"> 
+          <gml:coordinates>570479.000,100975.000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometryOSGB> 
+	<ms:id>77</ms:id>
+	<ms:sensor>Pevensey Bay</ms:sensor>
+        <ms:date>20210520#200000</ms:date>
+        <ms:value>209.500</ms:value>
+        <ms:hs>1.670</ms:hs>
+        <ms:type>waves</ms:type>
+        <ms:sst>11.700</ms:sst>
+        <ms:tp>5.560</ms:tp>
+        <ms:tz>4.301</ms:tz>
+      </ms:waves> 
+    </gml:featureMember> 
+
+     <gml:featureMember> 
+      <ms:waves fid="waves.'http://wavenet.cefas.co.uk/Map?ZoomTo=-1.7189%2C50.6337 '"> 
+        <gml:boundedBy> 
+        	<gml:Box srsName="EPSG:4326"> 
+        		<gml:coordinates>-1.7188333333,50.6336666667 -1.7188333333,50.6336666667</gml:coordinates> 
+        	</gml:Box> 
+        </gml:boundedBy> 
+        <ms:msGeometry> 
+        <gml:Point srsName="EPSG:4326"> 
+          <gml:coordinates>-1.7188333333,50.6336666667</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometry> 
+        <ms:msGeometryOSGB> 
+        <gml:Point srsName="EPSG:27700"> 
+          <gml:coordinates>419980.597,81591.186</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometryOSGB> 
+	<ms:id>http://wavenet.cefas.co.uk/Map?ZoomTo=-1.7189%2C50.6337 </ms:id>
+	<ms:sensor>Poole Bay</ms:sensor>
+        <ms:date>None</ms:date>
+        <ms:value>None</ms:value>
+        <ms:hs>None</ms:hs>
+        <ms:type>waves</ms:type>
+        <ms:sst>None</ms:sst>
+        <ms:tp>None</ms:tp>
+        <ms:tz>None</ms:tz>
+      </ms:waves> 
+    </gml:featureMember> 
+
+     <gml:featureMember> 
+      <ms:waves fid="waves.'102'"> 
+        <gml:boundedBy> 
+        	<gml:Box srsName="EPSG:4326"> 
+        		<gml:coordinates>-4.8343799000,50.5941760000 -4.8343799000,50.5941760000</gml:coordinates> 
+        	</gml:Box> 
+        </gml:boundedBy> 
+        <ms:msGeometry> 
+        <gml:Point srsName="EPSG:4326"> 
+          <gml:coordinates>-4.8343799000,50.5941760000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometry> 
+        <ms:msGeometryOSGB> 
+        <gml:Point srsName="EPSG:27700"> 
+          <gml:coordinates>199491.000,80998.000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometryOSGB> 
+	<ms:id>102</ms:id>
+	<ms:sensor>Port Isaac</ms:sensor>
+        <ms:date>20210520#203000</ms:date>
+        <ms:value>None</ms:value>
+        <ms:hs>1.801</ms:hs>
+        <ms:type>waves</ms:type>
+        <ms:sst>None</ms:sst>
+        <ms:tp>None</ms:tp>
+        <ms:tz>None</ms:tz>
+      </ms:waves> 
+    </gml:featureMember> 
+
+     <gml:featureMember> 
+      <ms:waves fid="waves.'107'"> 
+        <gml:boundedBy> 
+        	<gml:Box srsName="EPSG:4326"> 
+        		<gml:coordinates>-5.3072800000,50.0630500000 -5.3072800000,50.0630500000</gml:coordinates> 
+        	</gml:Box> 
+        </gml:boundedBy> 
+        <ms:msGeometry> 
+        <gml:Point srsName="EPSG:4326"> 
+          <gml:coordinates>-5.3072800000,50.0630500000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometry> 
+        <ms:msGeometryOSGB> 
+        <gml:Point srsName="EPSG:27700"> 
+          <gml:coordinates>163353.000,23294.000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometryOSGB> 
+	<ms:id>107</ms:id>
+	<ms:sensor>Porthleven</ms:sensor>
+        <ms:date>20210520#203000</ms:date>
+        <ms:value>234.800</ms:value>
+        <ms:hs>5.430</ms:hs>
+        <ms:type>waves</ms:type>
+        <ms:sst>12.100</ms:sst>
+        <ms:tp>15.380</ms:tp>
+        <ms:tz>8.163</ms:tz>
+      </ms:waves> 
+    </gml:featureMember> 
+
+     <gml:featureMember> 
+      <ms:waves fid="waves.'100'"> 
+        <gml:boundedBy> 
+        	<gml:Box srsName="EPSG:4326"> 
+        		<gml:coordinates>-3.1470500000,53.5984600000 -3.1470500000,53.5984600000</gml:coordinates> 
+        	</gml:Box> 
+        </gml:boundedBy> 
+        <ms:msGeometry> 
+        <gml:Point srsName="EPSG:4326"> 
+          <gml:coordinates>-3.1470500000,53.5984600000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometry> 
+        <ms:msGeometryOSGB> 
+        <gml:Point srsName="EPSG:27700"> 
+          <gml:coordinates>293599.000,388396.000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometryOSGB> 
+	<ms:id>100</ms:id>
+	<ms:sensor>Rhyl Flats</ms:sensor>
+        <ms:date>20210313#030600</ms:date>
+        <ms:value>281.300</ms:value>
+        <ms:hs>2.040</ms:hs>
+        <ms:type>waves</ms:type>
+        <ms:sst>6.700</ms:sst>
+        <ms:tp>7.140</ms:tp>
+        <ms:tz>4.938</ms:tz>
+      </ms:waves> 
+    </gml:featureMember> 
+
+     <gml:featureMember> 
+      <ms:waves fid="waves.'78'"> 
+        <gml:boundedBy> 
+        	<gml:Box srsName="EPSG:4326"> 
+        		<gml:coordinates>-0.4948100000,50.7341900000 -0.4948100000,50.7341900000</gml:coordinates> 
+        	</gml:Box> 
+        </gml:boundedBy> 
+        <ms:msGeometry> 
+        <gml:Point srsName="EPSG:4326"> 
+          <gml:coordinates>-0.4948100000,50.7341900000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometry> 
+        <ms:msGeometryOSGB> 
+        <gml:Point srsName="EPSG:27700"> 
+          <gml:coordinates>506331.000,93784.000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometryOSGB> 
+	<ms:id>78</ms:id>
+	<ms:sensor>Rustington</ms:sensor>
+        <ms:date>20210520#203000</ms:date>
+        <ms:value>220.800</ms:value>
+        <ms:hs>2.620</ms:hs>
+        <ms:type>waves</ms:type>
+        <ms:sst>12.400</ms:sst>
+        <ms:tp>7.690</ms:tp>
+        <ms:tz>5.405</ms:tz>
+      </ms:waves> 
+    </gml:featureMember> 
+
+     <gml:featureMember> 
+      <ms:waves fid="waves.'79'"> 
+        <gml:boundedBy> 
+        	<gml:Box srsName="EPSG:4326"> 
+        		<gml:coordinates>0.7911200000,50.8515500000 0.7911200000,50.8515500000</gml:coordinates> 
+        	</gml:Box> 
+        </gml:boundedBy> 
+        <ms:msGeometry> 
+        <gml:Point srsName="EPSG:4326"> 
+          <gml:coordinates>0.7911200000,50.8515500000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometry> 
+        <ms:msGeometryOSGB> 
+        <gml:Point srsName="EPSG:27700"> 
+          <gml:coordinates>597123.000,111196.000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometryOSGB> 
+	<ms:id>79</ms:id>
+	<ms:sensor>Rye Bay</ms:sensor>
+        <ms:date>20210520#203000</ms:date>
+        <ms:value>214.000</ms:value>
+        <ms:hs>1.820</ms:hs>
+        <ms:type>waves</ms:type>
+        <ms:sst>10.900</ms:sst>
+        <ms:tp>5.700</ms:tp>
+        <ms:tz>4.200</ms:tz>
+      </ms:waves> 
+    </gml:featureMember> 
+
+     <gml:featureMember> 
+      <ms:waves fid="waves.'80'"> 
+        <gml:boundedBy> 
+        	<gml:Box srsName="EPSG:4326"> 
+        		<gml:coordinates>-1.1286700000,50.6507200000 -1.1286700000,50.6507200000</gml:coordinates> 
+        	</gml:Box> 
+        </gml:boundedBy> 
+        <ms:msGeometry> 
+        <gml:Point srsName="EPSG:4326"> 
+          <gml:coordinates>-1.1286700000,50.6507200000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometry> 
+        <ms:msGeometryOSGB> 
+        <gml:Point srsName="EPSG:27700"> 
+          <gml:coordinates>461393.000,83841.000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometryOSGB> 
+	<ms:id>80</ms:id>
+	<ms:sensor>Sandown Bay</ms:sensor>
+        <ms:date>20210520#200000</ms:date>
+        <ms:value>182.800</ms:value>
+        <ms:hs>1.500</ms:hs>
+        <ms:type>waves</ms:type>
+        <ms:sst>11.800</ms:sst>
+        <ms:tp>6.250</ms:tp>
+        <ms:tz>4.396</ms:tz>
+      </ms:waves> 
+    </gml:featureMember> 
+
+     <gml:featureMember> 
+      <ms:waves fid="waves.'92'"> 
+        <gml:boundedBy> 
+        	<gml:Box srsName="EPSG:4326"> 
+        		<gml:coordinates>-1.1517100000,50.6512200000 -1.1517100000,50.6512200000</gml:coordinates> 
+        	</gml:Box> 
+        </gml:boundedBy> 
+        <ms:msGeometry> 
+        <gml:Point srsName="EPSG:4326"> 
+          <gml:coordinates>-1.1517100000,50.6512200000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometry> 
+        <ms:msGeometryOSGB> 
+        <gml:Point srsName="EPSG:27700"> 
+          <gml:coordinates>459964.000,83835.000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometryOSGB> 
+	<ms:id>92</ms:id>
+	<ms:sensor>Sandown Pier</ms:sensor>
+        <ms:date>20210520#203001</ms:date>
+        <ms:value>None</ms:value>
+        <ms:hs>0.656</ms:hs>
+        <ms:type>waves</ms:type>
+        <ms:sst>None</ms:sst>
+        <ms:tp>None</ms:tp>
+        <ms:tz>None</ms:tz>
+      </ms:waves> 
+    </gml:featureMember> 
+
+     <gml:featureMember> 
+      <ms:waves fid="waves.'108'"> 
+        <gml:boundedBy> 
+        	<gml:Box srsName="EPSG:4326"> 
+        		<gml:coordinates>-0.3169700000,54.2940000000 -0.3169700000,54.2940000000</gml:coordinates> 
+        	</gml:Box> 
+        </gml:boundedBy> 
+        <ms:msGeometry> 
+        <gml:Point srsName="EPSG:4326"> 
+          <gml:coordinates>-0.3169700000,54.2940000000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometry> 
+        <ms:msGeometryOSGB> 
+        <gml:Point srsName="EPSG:27700"> 
+          <gml:coordinates>504898.000,488622.000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometryOSGB> 
+	<ms:id>108</ms:id>
+	<ms:sensor>Scarborough</ms:sensor>
+        <ms:date>20210520#200000</ms:date>
+        <ms:value>21.100</ms:value>
+        <ms:hs>1.340</ms:hs>
+        <ms:type>waves</ms:type>
+        <ms:sst>8.650</ms:sst>
+        <ms:tp>11.760</ms:tp>
+        <ms:tz>4.494</ms:tz>
+      </ms:waves> 
+    </gml:featureMember> 
+
+     <gml:featureMember> 
+      <ms:waves fid="waves.'http://wavenet.cefas.co.uk/Map?ZoomTo=-3.9331%2C51.4332 '"> 
+        <gml:boundedBy> 
+        	<gml:Box srsName="EPSG:4326"> 
+        		<gml:coordinates>-3.9331666667,51.4331666667 -3.9331666667,51.4331666667</gml:coordinates> 
+        	</gml:Box> 
+        </gml:boundedBy> 
+        <ms:msGeometry> 
+        <gml:Point srsName="EPSG:4326"> 
+          <gml:coordinates>-3.9331666667,51.4331666667</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometry> 
+        <ms:msGeometryOSGB> 
+        <gml:Point srsName="EPSG:27700"> 
+          <gml:coordinates>265717.086,172235.872</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometryOSGB> 
+	<ms:id>http://wavenet.cefas.co.uk/Map?ZoomTo=-3.9331%2C51.4332 </ms:id>
+	<ms:sensor>Scarweather</ms:sensor>
+        <ms:date>None</ms:date>
+        <ms:value>None</ms:value>
+        <ms:hs>None</ms:hs>
+        <ms:type>waves</ms:type>
+        <ms:sst>None</ms:sst>
+        <ms:tp>None</ms:tp>
+        <ms:tz>None</ms:tz>
+      </ms:waves> 
+    </gml:featureMember> 
+
+     <gml:featureMember> 
+      <ms:waves fid="waves.'113'"> 
+        <gml:boundedBy> 
+        	<gml:Box srsName="EPSG:4326"> 
+        		<gml:coordinates>-6.3110900000,49.8928900000 -6.3110900000,49.8928900000</gml:coordinates> 
+        	</gml:Box> 
+        </gml:boundedBy> 
+        <ms:msGeometry> 
+        <gml:Point srsName="EPSG:4326"> 
+          <gml:coordinates>-6.3110900000,49.8928900000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometry> 
+        <ms:msGeometryOSGB> 
+        <gml:Point srsName="EPSG:27700"> 
+          <gml:coordinates>90407.000,8003.000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometryOSGB> 
+	<ms:id>113</ms:id>
+	<ms:sensor>St Mary's Sound</ms:sensor>
+        <ms:date>20210520#200000</ms:date>
+        <ms:value>219.400</ms:value>
+        <ms:hs>2.810</ms:hs>
+        <ms:type>waves</ms:type>
+        <ms:sst>11.500</ms:sst>
+        <ms:tp>9.090</ms:tp>
+        <ms:tz>5.797</ms:tz>
+      </ms:waves> 
+    </gml:featureMember> 
+
+     <gml:featureMember> 
+      <ms:waves fid="waves.'81'"> 
+        <gml:boundedBy> 
+        	<gml:Box srsName="EPSG:4326"> 
+        		<gml:coordinates>0.0754700000,50.7669300000 0.0754700000,50.7669300000</gml:coordinates> 
+        	</gml:Box> 
+        </gml:boundedBy> 
+        <ms:msGeometry> 
+        <gml:Point srsName="EPSG:4326"> 
+          <gml:coordinates>0.0754700000,50.7669300000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometry> 
+        <ms:msGeometryOSGB> 
+        <gml:Point srsName="EPSG:27700"> 
+          <gml:coordinates>546368.000,98212.000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometryOSGB> 
+	<ms:id>81</ms:id>
+	<ms:sensor>Seaford</ms:sensor>
+        <ms:date>20210520#200000</ms:date>
+        <ms:value>230.600</ms:value>
+        <ms:hs>2.430</ms:hs>
+        <ms:type>waves</ms:type>
+        <ms:sst>11.800</ms:sst>
+        <ms:tp>7.690</ms:tp>
+        <ms:tz>5.195</ms:tz>
+      </ms:waves> 
+    </gml:featureMember> 
+
+     <gml:featureMember> 
+      <ms:waves fid="waves.'106'"> 
+        <gml:boundedBy> 
+        	<gml:Box srsName="EPSG:4326"> 
+        		<gml:coordinates>-2.7000315000,51.5701140000 -2.7000315000,51.5701140000</gml:coordinates> 
+        	</gml:Box> 
+        </gml:boundedBy> 
+        <ms:msGeometry> 
+        <gml:Point srsName="EPSG:4326"> 
+          <gml:coordinates>-2.7000315000,51.5701140000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometry> 
+        <ms:msGeometryOSGB> 
+        <gml:Point srsName="EPSG:27700"> 
+          <gml:coordinates>351584.000,186402.000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometryOSGB> 
+	<ms:id>106</ms:id>
+	<ms:sensor>Severn Bridge</ms:sensor>
+        <ms:date>20210520#203000</ms:date>
+        <ms:value>None</ms:value>
+        <ms:hs>0.280</ms:hs>
+        <ms:type>waves</ms:type>
+        <ms:sst>None</ms:sst>
+        <ms:tp>None</ms:tp>
+        <ms:tz>None</ms:tz>
+      </ms:waves> 
+    </gml:featureMember> 
+
+     <gml:featureMember> 
+      <ms:waves fid="waves.'http://wavenet.cefas.co.uk/Map?ZoomTo=-0.7488%2C54.9189 '"> 
+        <gml:boundedBy> 
+        	<gml:Box srsName="EPSG:4326"> 
+        		<gml:coordinates>-0.7488333333,54.9188333333 -0.7488333333,54.9188333333</gml:coordinates> 
+        	</gml:Box> 
+        </gml:boundedBy> 
+        <ms:msGeometry> 
+        <gml:Point srsName="EPSG:4326"> 
+          <gml:coordinates>-0.7488333333,54.9188333333</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometry> 
+        <ms:msGeometryOSGB> 
+        <gml:Point srsName="EPSG:27700"> 
+          <gml:coordinates>480296.380,558952.606</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometryOSGB> 
+	<ms:id>http://wavenet.cefas.co.uk/Map?ZoomTo=-0.7488%2C54.9189 </ms:id>
+	<ms:sensor>Tyne/Tees</ms:sensor>
+        <ms:date>None</ms:date>
+        <ms:value>None</ms:value>
+        <ms:hs>None</ms:hs>
+        <ms:type>waves</ms:type>
+        <ms:sst>None</ms:sst>
+        <ms:tp>None</ms:tp>
+        <ms:tz>None</ms:tz>
+      </ms:waves> 
+    </gml:featureMember> 
+
+     <gml:featureMember> 
+      <ms:waves fid="waves.'http://wavenet.cefas.co.uk/Map?ZoomTo=-5.8394%2C51.8391 '"> 
+        <gml:boundedBy> 
+        	<gml:Box srsName="EPSG:4326"> 
+        		<gml:coordinates>-5.8395000000,51.8391666667 -5.8395000000,51.8391666667</gml:coordinates> 
+        	</gml:Box> 
+        </gml:boundedBy> 
+        <ms:msGeometry> 
+        <gml:Point srsName="EPSG:4326"> 
+          <gml:coordinates>-5.8395000000,51.8391666667</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometry> 
+        <ms:msGeometryOSGB> 
+        <gml:Point srsName="EPSG:27700"> 
+          <gml:coordinates>135611.109,222589.709</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometryOSGB> 
+	<ms:id>http://wavenet.cefas.co.uk/Map?ZoomTo=-5.8394%2C51.8391 </ms:id>
+	<ms:sensor>West Pembrokeshire</ms:sensor>
+        <ms:date>None</ms:date>
+        <ms:value>None</ms:value>
+        <ms:hs>None</ms:hs>
+        <ms:type>waves</ms:type>
+        <ms:sst>None</ms:sst>
+        <ms:tp>None</ms:tp>
+        <ms:tz>None</ms:tz>
+      </ms:waves> 
+    </gml:featureMember> 
+
+     <gml:featureMember> 
+      <ms:waves fid="waves.'http://www.channelcoast.org/data_management/real_time_data/charts/?gps=Chichester&amp;y=2013'"> 
+        <gml:boundedBy> 
+        	<gml:Box srsName="EPSG:4326"> 
+        		<gml:coordinates>-0.7660000000,50.8240000000 -0.7660000000,50.8240000000</gml:coordinates> 
+        	</gml:Box> 
+        </gml:boundedBy> 
+        <ms:msGeometry> 
+        <gml:Point srsName="EPSG:4326"> 
+          <gml:coordinates>-0.7660000000,50.8240000000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometry> 
+        <ms:msGeometryOSGB> 
+        <gml:Point srsName="EPSG:27700"> 
+          <gml:coordinates>487014.010,103443.060</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometryOSGB> 
+	<ms:id>http://www.channelcoast.org/data_management/real_time_data/charts/?gps=Chichester&amp;y=2013</ms:id>
+	<ms:sensor>Chichester</ms:sensor>
+        <ms:date>None</ms:date>
+        <ms:value>None</ms:value>
+        <ms:hs>None</ms:hs>
+        <ms:type>waves</ms:type>
+        <ms:sst>None</ms:sst>
+        <ms:tp>None</ms:tp>
+        <ms:tz>None</ms:tz>
+      </ms:waves> 
+    </gml:featureMember> 
+
+     <gml:featureMember> 
+      <ms:waves fid="waves.'http://www.channelcoast.org/data_management/real_time_data/charts/?gps=Newhaven&amp;y=2013'"> 
+        <gml:boundedBy> 
+        	<gml:Box srsName="EPSG:4326"> 
+        		<gml:coordinates>0.0540000000,50.7970000000 0.0540000000,50.7970000000</gml:coordinates> 
+        	</gml:Box> 
+        </gml:boundedBy> 
+        <ms:msGeometry> 
+        <gml:Point srsName="EPSG:4326"> 
+          <gml:coordinates>0.0540000000,50.7970000000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometry> 
+        <ms:msGeometryOSGB> 
+        <gml:Point srsName="EPSG:27700"> 
+          <gml:coordinates>544850.740,101725.730</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometryOSGB> 
+	<ms:id>http://www.channelcoast.org/data_management/real_time_data/charts/?gps=Newhaven&amp;y=2013</ms:id>
+	<ms:sensor>Newhaven</ms:sensor>
+        <ms:date>None</ms:date>
+        <ms:value>None</ms:value>
+        <ms:hs>None</ms:hs>
+        <ms:type>waves</ms:type>
+        <ms:sst>None</ms:sst>
+        <ms:tp>None</ms:tp>
+        <ms:tz>None</ms:tz>
+      </ms:waves> 
+    </gml:featureMember> 
+
+     <gml:featureMember> 
+      <ms:waves fid="waves.'http://www.channelcoast.org/data_management/real_time_data/charts/?gps=Worthing'"> 
+        <gml:boundedBy> 
+        	<gml:Box srsName="EPSG:4326"> 
+        		<gml:coordinates>-0.3900000000,50.8250000000 -0.3900000000,50.8250000000</gml:coordinates> 
+        	</gml:Box> 
+        </gml:boundedBy> 
+        <ms:msGeometry> 
+        <gml:Point srsName="EPSG:4326"> 
+          <gml:coordinates>-0.3900000000,50.8250000000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometry> 
+        <ms:msGeometryOSGB> 
+        <gml:Point srsName="EPSG:27700"> 
+          <gml:coordinates>513494.000,104063.000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometryOSGB> 
+	<ms:id>http://www.channelcoast.org/data_management/real_time_data/charts/?gps=Worthing</ms:id>
+	<ms:sensor>Worthing</ms:sensor>
+        <ms:date>None</ms:date>
+        <ms:value>None</ms:value>
+        <ms:hs>None</ms:hs>
+        <ms:type>waves</ms:type>
+        <ms:sst>None</ms:sst>
+        <ms:tp>None</ms:tp>
+        <ms:tz>None</ms:tz>
+      </ms:waves> 
+    </gml:featureMember> 
+
+     <gml:featureMember> 
+      <ms:waves fid="waves.'http://www.channelcoast.org/data_management/real_time_data/charts/?gps=Hastings2'"> 
+        <gml:boundedBy> 
+        	<gml:Box srsName="EPSG:4326"> 
+        		<gml:coordinates>0.5800000000,50.8500000000 0.5800000000,50.8500000000</gml:coordinates> 
+        	</gml:Box> 
+        </gml:boundedBy> 
+        <ms:msGeometry> 
+        <gml:Point srsName="EPSG:4326"> 
+          <gml:coordinates>0.5800000000,50.8500000000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometry> 
+        <ms:msGeometryOSGB> 
+        <gml:Point srsName="EPSG:27700"> 
+          <gml:coordinates>581709.000,108780.000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometryOSGB> 
+	<ms:id>http://www.channelcoast.org/data_management/real_time_data/charts/?gps=Hastings2</ms:id>
+	<ms:sensor>Hastings</ms:sensor>
+        <ms:date>None</ms:date>
+        <ms:value>None</ms:value>
+        <ms:hs>None</ms:hs>
+        <ms:type>waves</ms:type>
+        <ms:sst>None</ms:sst>
+        <ms:tp>None</ms:tp>
+        <ms:tz>None</ms:tz>
+      </ms:waves> 
+    </gml:featureMember> 
+
+     <gml:featureMember> 
+      <ms:waves fid="waves.'http://www.channelcoast.org/data_management/real_time_data/charts/?gps=Hurst'"> 
+        <gml:boundedBy> 
+        	<gml:Box srsName="EPSG:4326"> 
+        		<gml:coordinates>-1.5837000000,50.7196550000 -1.5837000000,50.7196550000</gml:coordinates> 
+        	</gml:Box> 
+        </gml:boundedBy> 
+        <ms:msGeometry> 
+        <gml:Point srsName="EPSG:4326"> 
+          <gml:coordinates>-1.5837000000,50.7196550000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometry> 
+        <ms:msGeometryOSGB> 
+        <gml:Point srsName="EPSG:27700"> 
+          <gml:coordinates>429484.410,91196.840</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometryOSGB> 
+	<ms:id>http://www.channelcoast.org/data_management/real_time_data/charts/?gps=Hurst</ms:id>
+	<ms:sensor>Hurst</ms:sensor>
+        <ms:date>None</ms:date>
+        <ms:value>None</ms:value>
+        <ms:hs>None</ms:hs>
+        <ms:type>waves</ms:type>
+        <ms:sst>None</ms:sst>
+        <ms:tp>None</ms:tp>
+        <ms:tz>None</ms:tz>
+      </ms:waves> 
+    </gml:featureMember> 
+
+     <gml:featureMember> 
+      <ms:waves fid="waves.'http://www.channelcoast.org/data_management/real_time_data/charts/?gps=Pevensey'"> 
+        <gml:boundedBy> 
+        	<gml:Box srsName="EPSG:4326"> 
+        		<gml:coordinates>0.3522000000,50.8116000000 0.3522000000,50.8116000000</gml:coordinates> 
+        	</gml:Box> 
+        </gml:boundedBy> 
+        <ms:msGeometry> 
+        <gml:Point srsName="EPSG:4326"> 
+          <gml:coordinates>0.3522000000,50.8116000000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometry> 
+        <ms:msGeometryOSGB> 
+        <gml:Point srsName="EPSG:27700"> 
+          <gml:coordinates>565812.000,103975.000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometryOSGB> 
+	<ms:id>http://www.channelcoast.org/data_management/real_time_data/charts/?gps=Pevensey</ms:id>
+	<ms:sensor>Pevensey</ms:sensor>
+        <ms:date>None</ms:date>
+        <ms:value>None</ms:value>
+        <ms:hs>None</ms:hs>
+        <ms:type>waves</ms:type>
+        <ms:sst>None</ms:sst>
+        <ms:tp>None</ms:tp>
+        <ms:tz>None</ms:tz>
+      </ms:waves> 
+    </gml:featureMember> 
+
+     <gml:featureMember> 
+      <ms:waves fid="waves.'http://www.channelcoast.org/data_management/real_time_data/charts/?gps=Canterbury'"> 
+        <gml:boundedBy> 
+        	<gml:Box srsName="EPSG:4326"> 
+        		<gml:coordinates>1.0933330000,51.2833300000 1.0933330000,51.2833300000</gml:coordinates> 
+        	</gml:Box> 
+        </gml:boundedBy> 
+        <ms:msGeometry> 
+        <gml:Point srsName="EPSG:4326"> 
+          <gml:coordinates>1.0933330000,51.2833300000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometry> 
+        <ms:msGeometryOSGB> 
+        <gml:Point srsName="EPSG:27700"> 
+          <gml:coordinates>615819.000,158345.000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometryOSGB> 
+	<ms:id>http://www.channelcoast.org/data_management/real_time_data/charts/?gps=Canterbury</ms:id>
+	<ms:sensor>Canterbury</ms:sensor>
+        <ms:date>None</ms:date>
+        <ms:value>None</ms:value>
+        <ms:hs>None</ms:hs>
+        <ms:type>waves</ms:type>
+        <ms:sst>None</ms:sst>
+        <ms:tp>None</ms:tp>
+        <ms:tz>None</ms:tz>
+      </ms:waves> 
+    </gml:featureMember> 
+
+     <gml:featureMember> 
+      <ms:waves fid="waves.'82'"> 
+        <gml:boundedBy> 
+        	<gml:Box srsName="EPSG:4326"> 
+        		<gml:coordinates>-3.6160500000,50.2926400000 -3.6160500000,50.2926400000</gml:coordinates> 
+        	</gml:Box> 
+        </gml:boundedBy> 
+        <ms:msGeometry> 
+        <gml:Point srsName="EPSG:4326"> 
+          <gml:coordinates>-3.6160500000,50.2926400000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometry> 
+        <ms:msGeometryOSGB> 
+        <gml:Point srsName="EPSG:27700"> 
+          <gml:coordinates>284494.000,44824.000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometryOSGB> 
+	<ms:id>82</ms:id>
+	<ms:sensor>Start Bay</ms:sensor>
+        <ms:date>20210520#200000</ms:date>
+        <ms:value>192.700</ms:value>
+        <ms:hs>1.950</ms:hs>
+        <ms:type>waves</ms:type>
+        <ms:sst>11.150</ms:sst>
+        <ms:tp>11.110</ms:tp>
+        <ms:tz>5.714</ms:tz>
+      </ms:waves> 
+    </gml:featureMember> 
+
+     <gml:featureMember> 
+      <ms:waves fid="waves.'93'"> 
+        <gml:boundedBy> 
+        	<gml:Box srsName="EPSG:4326"> 
+        		<gml:coordinates>-1.9478500000,50.6095000000 -1.9478500000,50.6095000000</gml:coordinates> 
+        	</gml:Box> 
+        </gml:boundedBy> 
+        <ms:msGeometry> 
+        <gml:Point srsName="EPSG:4326"> 
+          <gml:coordinates>-1.9478500000,50.6095000000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometry> 
+        <ms:msGeometryOSGB> 
+        <gml:Point srsName="EPSG:27700"> 
+          <gml:coordinates>403690.000,78855.000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometryOSGB> 
+	<ms:id>93</ms:id>
+	<ms:sensor>Swanage Pier</ms:sensor>
+        <ms:date>20210520#203000</ms:date>
+        <ms:value>None</ms:value>
+        <ms:hs>0.271</ms:hs>
+        <ms:type>waves</ms:type>
+        <ms:sst>None</ms:sst>
+        <ms:tp>None</ms:tp>
+        <ms:tz>None</ms:tz>
+      </ms:waves> 
+    </gml:featureMember> 
+
+     <gml:featureMember> 
+      <ms:waves fid="waves.'85'"> 
+        <gml:boundedBy> 
+        	<gml:Box srsName="EPSG:4326"> 
+        		<gml:coordinates>-3.5177900000,50.4340200000 -3.5177900000,50.4340200000</gml:coordinates> 
+        	</gml:Box> 
+        </gml:boundedBy> 
+        <ms:msGeometry> 
+        <gml:Point srsName="EPSG:4326"> 
+          <gml:coordinates>-3.5177900000,50.4340200000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometry> 
+        <ms:msGeometryOSGB> 
+        <gml:Point srsName="EPSG:27700"> 
+          <gml:coordinates>292005.000,60323.000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometryOSGB> 
+	<ms:id>85</ms:id>
+	<ms:sensor>Tor Bay</ms:sensor>
+        <ms:date>20210520#200000</ms:date>
+        <ms:value>227.800</ms:value>
+        <ms:hs>0.740</ms:hs>
+        <ms:type>waves</ms:type>
+        <ms:sst>10.900</ms:sst>
+        <ms:tp>3.030</ms:tp>
+        <ms:tz>2.797</ms:tz>
+      </ms:waves> 
+    </gml:featureMember> 
+
+     <gml:featureMember> 
+      <ms:waves fid="waves.'116'"> 
+        <gml:boundedBy> 
+        	<gml:Box srsName="EPSG:4326"> 
+        		<gml:coordinates>-5.6311600000,50.2943200000 -5.6311600000,50.2943200000</gml:coordinates> 
+        	</gml:Box> 
+        </gml:boundedBy> 
+        <ms:msGeometry> 
+        <gml:Point srsName="EPSG:4326"> 
+          <gml:coordinates>-5.6311600000,50.2943200000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometry> 
+        <ms:msGeometryOSGB> 
+        <gml:Point srsName="EPSG:27700"> 
+          <gml:coordinates>142974.000,55950.000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometryOSGB> 
+	<ms:id>116</ms:id>
+	<ms:sensor>Wave Hub</ms:sensor>
+        <ms:date>20180606#103000</ms:date>
+        <ms:value>240.500</ms:value>
+        <ms:hs>0.700</ms:hs>
+        <ms:type>waves</ms:type>
+        <ms:sst>15.900</ms:sst>
+        <ms:tp>10.000</ms:tp>
+        <ms:tz>7.018</ms:tz>
+      </ms:waves> 
+    </gml:featureMember> 
+
+     <gml:featureMember> 
+      <ms:waves fid="waves.'115'"> 
+        <gml:boundedBy> 
+        	<gml:Box srsName="EPSG:4326"> 
+        		<gml:coordinates>-4.6716600000,53.3559700000 -4.6716600000,53.3559700000</gml:coordinates> 
+        	</gml:Box> 
+        </gml:boundedBy> 
+        <ms:msGeometry> 
+        <gml:Point srsName="EPSG:4326"> 
+          <gml:coordinates>-4.6716600000,53.3559700000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometry> 
+        <ms:msGeometryOSGB> 
+        <gml:Point srsName="EPSG:27700"> 
+          <gml:coordinates>384922.000,5897655.000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometryOSGB> 
+	<ms:id>115</ms:id>
+	<ms:sensor>West Anglesey</ms:sensor>
+        <ms:date>20161219#115900</ms:date>
+        <ms:value>198.000</ms:value>
+        <ms:hs>0.590</ms:hs>
+        <ms:type>waves</ms:type>
+        <ms:sst>10.400</ms:sst>
+        <ms:tp>5.600</ms:tp>
+        <ms:tz>3.800</ms:tz>
+      </ms:waves> 
+    </gml:featureMember> 
+
+     <gml:featureMember> 
+      <ms:waves fid="waves.'83'"> 
+        <gml:boundedBy> 
+        	<gml:Box srsName="EPSG:4326"> 
+        		<gml:coordinates>-2.7509400000,50.6942100000 -2.7509400000,50.6942100000</gml:coordinates> 
+        	</gml:Box> 
+        </gml:boundedBy> 
+        <ms:msGeometry> 
+        <gml:Point srsName="EPSG:4326"> 
+          <gml:coordinates>-2.7509400000,50.6942100000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometry> 
+        <ms:msGeometryOSGB> 
+        <gml:Point srsName="EPSG:27700"> 
+          <gml:coordinates>347102.000,88446.000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometryOSGB> 
+	<ms:id>83</ms:id>
+	<ms:sensor>West Bay</ms:sensor>
+        <ms:date>20210520#200000</ms:date>
+        <ms:value>216.600</ms:value>
+        <ms:hs>3.900</ms:hs>
+        <ms:type>waves</ms:type>
+        <ms:sst>11.550</ms:sst>
+        <ms:tp>10.000</ms:tp>
+        <ms:tz>6.452</ms:tz>
+      </ms:waves> 
+    </gml:featureMember> 
+
+     <gml:featureMember> 
+      <ms:waves fid="waves.'95'"> 
+        <gml:boundedBy> 
+        	<gml:Box srsName="EPSG:4326"> 
+        		<gml:coordinates>-2.7627100000,50.7103200000 -2.7627100000,50.7103200000</gml:coordinates> 
+        	</gml:Box> 
+        </gml:boundedBy> 
+        <ms:msGeometry> 
+        <gml:Point srsName="EPSG:4326"> 
+          <gml:coordinates>-2.7627100000,50.7103200000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometry> 
+        <ms:msGeometryOSGB> 
+        <gml:Point srsName="EPSG:27700"> 
+          <gml:coordinates>346153.000,90340.000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometryOSGB> 
+	<ms:id>95</ms:id>
+	<ms:sensor>West Bay Harbour</ms:sensor>
+        <ms:date>20210520#203000</ms:date>
+        <ms:value>None</ms:value>
+        <ms:hs>0.487</ms:hs>
+        <ms:type>waves</ms:type>
+        <ms:sst>None</ms:sst>
+        <ms:tp>None</ms:tp>
+        <ms:tz>None</ms:tz>
+      </ms:waves> 
+    </gml:featureMember> 
+
+     <gml:featureMember> 
+      <ms:waves fid="waves.'99'"> 
+        <gml:boundedBy> 
+        	<gml:Box srsName="EPSG:4326"> 
+        		<gml:coordinates>-3.0198200000,51.3540600000 -3.0198200000,51.3540600000</gml:coordinates> 
+        	</gml:Box> 
+        </gml:boundedBy> 
+        <ms:msGeometry> 
+        <gml:Point srsName="EPSG:4326"> 
+          <gml:coordinates>-3.0198200000,51.3540600000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometry> 
+        <ms:msGeometryOSGB> 
+        <gml:Point srsName="EPSG:27700"> 
+          <gml:coordinates>329184.000,162113.000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometryOSGB> 
+	<ms:id>99</ms:id>
+	<ms:sensor>Westonbay</ms:sensor>
+        <ms:date>20210520#200000</ms:date>
+        <ms:value>265.800</ms:value>
+        <ms:hs>1.510</ms:hs>
+        <ms:type>waves</ms:type>
+        <ms:sst>12.550</ms:sst>
+        <ms:tp>5.260</ms:tp>
+        <ms:tz>3.922</ms:tz>
+      </ms:waves> 
+    </gml:featureMember> 
+
+     <gml:featureMember> 
+      <ms:waves fid="waves.'84'"> 
+        <gml:boundedBy> 
+        	<gml:Box srsName="EPSG:4326"> 
+        		<gml:coordinates>-2.4135800000,50.6229400000 -2.4135800000,50.6229400000</gml:coordinates> 
+        	</gml:Box> 
+        </gml:boundedBy> 
+        <ms:msGeometry> 
+        <gml:Point srsName="EPSG:4326"> 
+          <gml:coordinates>-2.4135800000,50.6229400000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometry> 
+        <ms:msGeometryOSGB> 
+        <gml:Point srsName="EPSG:27700"> 
+          <gml:coordinates>370830.000,80429.000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometryOSGB> 
+	<ms:id>84</ms:id>
+	<ms:sensor>Weymouth</ms:sensor>
+        <ms:date>20210520#203000</ms:date>
+        <ms:value>165.900</ms:value>
+        <ms:hs>1.210</ms:hs>
+        <ms:type>waves</ms:type>
+        <ms:sst>11.650</ms:sst>
+        <ms:tp>5.560</ms:tp>
+        <ms:tz>3.670</ms:tz>
+      </ms:waves> 
+    </gml:featureMember> 
+
+     <gml:featureMember> 
+      <ms:waves fid="waves.'109'"> 
+        <gml:boundedBy> 
+        	<gml:Box srsName="EPSG:4326"> 
+        		<gml:coordinates>-0.6058100000,54.5044900000 -0.6058100000,54.5044900000</gml:coordinates> 
+        	</gml:Box> 
+        </gml:boundedBy> 
+        <ms:msGeometry> 
+        <gml:Point srsName="EPSG:4326"> 
+          <gml:coordinates>-0.6058100000,54.5044900000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometry> 
+        <ms:msGeometryOSGB> 
+        <gml:Point srsName="EPSG:27700"> 
+          <gml:coordinates>490298.000,513060.000</gml:coordinates> 
+        </gml:Point> 
+        </ms:msGeometryOSGB> 
+	<ms:id>109</ms:id>
+	<ms:sensor>Whitby</ms:sensor>
+        <ms:date>20210520#200000</ms:date>
+        <ms:value>22.500</ms:value>
+        <ms:hs>1.310</ms:hs>
+        <ms:type>waves</ms:type>
+        <ms:sst>8.700</ms:sst>
+        <ms:tp>11.760</ms:tp>
+        <ms:tz>5.000</ms:tz>
+      </ms:waves> 
+    </gml:featureMember> 
+<gml:boundedBy> 
+      	<gml:Box srsName="EPSG:4326"> 
+      		<gml:coordinates>49.8168333333 -6.5453333333 55.1850900000 1.8173400000</gml:coordinates> 
+      	</gml:Box> 
+      </gml:boundedBy>
