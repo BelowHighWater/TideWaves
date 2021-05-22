@@ -1,14 +1,29 @@
 <html>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <body>
-<style>  body {background-color: rgba(201, 76, 76, 0.1);} .center {display: block;
+<style>  body {background-color: rgba(201, 76, 76, 0);} .center {display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 25%;
+  width: 20%;
 } </style>
 
-<div class="center">
-<img id="dir" src="dir_arrow.png" width="27" height="44" style=transform:rotate(90.100deg)><img id="wave" src="wave.png" width="55" height="44" style="padding-left: 20px; padding-right: 10px"></img><img id="bloke" src="bloke.png" width="27" height="44""></img>
+<div>
+
+<table style="width: 150; margin-left:0px; margin-right:auto; height: 90">
+<tr height="25">
+<td colspan="3" style="text-align: center;"><p4> Chesil Beach </p4></td>
+</tr>
+<tr height="50">
+	<td align="right"><img id="dir" src="../markers/dir_arrow.png" width="27" height="44" style=transform:rotate(90deg)></img></td>
+	<td align="right"><img id="wave" src="../markers/wave.png" width="66" height="44" style="padding-left: 20px; padding-right: 10px"></img></td>
+	<td align="left"><img id="bloke" src="../markers/bloke.png" width="27" height="44""></img></td>
+	</tr>
+<tr height="15">
+	<td align="right"><p id="dirtext"></p></td>
+	<td align="center"><p id="heighttext"></p></td>
+	<td align="left"><p id="temptext"></p></td>
+	</tr>
+
 </div>
 
 <script>
@@ -44,21 +59,33 @@ console.log(h);
 d = xmlDoc.getElementsByTagName("ms:value")[i];
 d = d.childNodes[0];
 d = d.nodeValue;
+
+t = xmlDoc.getElementsByTagName("ms:sst")[i];
+t = t.childNodes[0];
+t = t.nodeValue;
+
 waveicon(h);
-diricon(d)
+diricon(d);
+tempicon(t);
 }
 
 function waveicon(height) {
 iconheight = height/1.8 * 44;
-iconwidth = height/1.8 * 55;
+iconwidth = height/1.8 * 66;
 document.getElementById("wave").height = iconheight;
 document.getElementById("wave").width = iconwidth;
+document.getElementById("heighttext").innerHTML = Math.round(height*10)/10 + 'm'
 }
 
 function diricon(azi) {
 direction = azi + "deg";
 rot = "transform:rotate("+direction+")";
 document.getElementById("dir").style = rot;
+document.getElementById("dirtext").innerHTML = Math.round(azi) + '&deg'
+}
+
+function tempicon(sst) {
+document.getElementById("temptext").innerHTML = Math.round(sst*10)/10 + '&degC'
 }
 
 
