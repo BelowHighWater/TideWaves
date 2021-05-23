@@ -3,10 +3,10 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <link rel="stylesheet" href="../css/tabs.css" />
 <body>
-<div text-align="center" class="sensorframe">
+<div text-align="center">
 <table class="wavetable">
 <tr>
-<td colspan="3" style="text-align: center;"><p2 class="wavehead"> Chesil Beach </p2></td>
+<td colspan="3" style="text-align: center;"><p2 class="wavehead"> Boscombe Beach </p2></td>
 </tr>
 <tr>
 <td colspan="3" style="text-align: center;" nowrap="nowrap"><p2 class="wavehead" id="timetext"></p2></td>
@@ -48,7 +48,7 @@ do {
   x = xmlDoc.getElementsByTagName("ms:sensor")[i];
   y = x.childNodes[0];
   y = y.nodeValue;	
-} while (y !== "Chesil");
+} while (y !== "Boscombe");
 h = xmlDoc.getElementsByTagName("ms:hs")[i];
 h = h.childNodes[0];
 h = h.nodeValue;
@@ -80,8 +80,8 @@ timeicon(Y);
 }
 
 function waveicon(height) {
-iconheight = height/1.8 * 44;
-iconwidth = height/1.8 * 66;
+iconheight = height/1.8 * 44 * 5;
+iconwidth = height/1.8 * 66 * 5;
 document.getElementById("wave").height = iconheight;
 document.getElementById("wave").width = iconwidth;
 document.getElementById("heighttext").innerHTML =  Math.round(height*10)/10 + 'm'

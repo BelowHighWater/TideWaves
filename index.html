@@ -1,14 +1,13 @@
-
 <!DOCTYPE html>
 <html>
 <head>
 	
-	<title>Below High Water - Maps & Guides</title>
+	<title>Below High Water - Wave Conditions</title>
 
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 	<link rel="stylesheet" href="css/leaflet.css" />
-    	<link rel="stylesheet" href="css/screen.css" />
+    <link rel="stylesheet" href="css/screen.css" />
 	<link rel="stylesheet" href="css/MarkerCluster.css" />
 	<link rel="stylesheet" href="css/MarkerCluster.Default.css" />
 	<link rel="stylesheet" href="css/tabs.css" />
@@ -22,6 +21,9 @@
 
 <div id='map'></div>
 <div id="box" style="z-index:5;"></div>
+
+
+
 <script>
 
 //Base Maps from Open Street Map
@@ -43,8 +45,6 @@
 		attribution: '&copy; <a href="https://about.google/brand-resource-center/products-and-services/geo-guidelines/#required-attribution">Google </a> contributors'
 		});
 
-
-
 	
 
 var SW = L.latLng(50.4, -2.3)
@@ -56,16 +56,55 @@ map.fitBounds([DorsetBounds]);
 
 
 var baseMaps = {
-    	"Street": Land,
+    "Street": Land,
 	"Satellite": Satellite
 	};
 
 
+//Marker template
+	siteflag = L.Icon.extend({
+		options: {
+    		iconSize:     [34*1.2, 56*1.2],
+		iconAnchor:   [17, 56],
+		shadowUrl: 'markers/icon-shadow.png',
+    		shadowSize:   [34*1.2, 56*1.2],
+    		shadowAnchor: [7*1.2, 41*1.2],  
+    		popupAnchor:  [0, -58*1.2]
+		}
+	});
+	
+var SiteMark = new siteflag({iconUrl:'markers/site-BHW.png'});
+
 
 L.control.layers(baseMaps).addTo(map);
-var Chesil = '<iframe src="../TideWaves/data/chesil.html" width="200" height="120"></iframe>';
-L.marker([50.60227,-2.52213]).bindPopup(Chesil).openPopup().addTo(map);
 
+var Chesil = '<iframe src="./data/chesil.html" onload=\'javascript:(function(o){o.style.height=o.contentWindow.document.body.scrollHeight+"px";}(this));\' style="height:200px;width:100%;border:none;overflow:hidden;"></iframe>'
+//var Chesil = '<iframe src="./data/chesil.html" class=iframez frameBorder="3"></iframe>'
+
+
+L.marker([50.60227,-2.52213],{icon: SiteMark}).bindPopup(Chesil).on('mouseover', function (e) {
+            this.openPopup();
+        }).on('mouseout', function (e) {
+            this.closePopup();
+        }).addTo(map);
+		
+		
+		
+var Boscombe = '<iframe src="./data/boscombe.html" class=iframez frameBorder="3" onload=\'javascript:console.log(document.body.scrollHeight)\'></iframe>';		
+L.marker([50.71157,-1.84109],{icon: SiteMark}).on('mouseover', function (e) {
+            this.bindPopup(Boscombe).openPopup();
+        }).on('mouseout', function (e) {
+            this.closePopup();
+        }).addTo(map);
+		
+		
+var WestBay = '<iframe src="./data/boscombe.html" class=iframez></iframe>';
+		
+L.marker([50.69393,-2.75186],{icon: SiteMark}).bindPopup(WestBay).on('mouseover', function (e) {
+            this.openPopup();
+        }).on('mouseout', function (e) {
+            this.closePopup();
+        }).addTo(map);
 
 
 	window.addEventListener("orientationchange", function() {
