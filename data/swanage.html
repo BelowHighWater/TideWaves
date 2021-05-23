@@ -6,20 +6,16 @@
 <div text-align="center" id="sensorframe">
 <table class="wavetable">
 <tr>
-<td colspan="3" style="text-align: center;"><p2 class="wavehead" style="font-weight:bold;"> Boscombe </p2></td>
+<td  style="text-align: center;"><p2 class="wavehead" style="font-weight:bold;"> Swanage </p2></td>
 </tr>
 <tr>
-<td colspan="3" style="text-align: center;" nowrap="nowrap"><p2 class="wavehead" id="timetext"></p2></td>
+<td  style="text-align: center;" nowrap="nowrap"><p2 class="wavehead" id="timetext"></p2></td>
 </tr>
 <tr>
-	<td align="left" style="vertical-align:bottom;"><img id="dir" src="../markers/dir_arrow.png" width="27" height="44" style=transform:rotate(90deg)></img></td>
-	<td align="right" style="vertical-align:bottom;"><img id="wave" src="../markers/wave.png" width="66" height="44" style="padding-left:10px"><img id="bloke" src="../markers/bloke.png" width="27" height="44"></img></td>
-	<td align="center" style="vertical-align:bottom;"><img id="wave" src="../markers/thermo.png" width="12" height="40" style="padding-left:0px"></img></td>
+	<td align="center" style="vertical-align:bottom;"><img id="wave" src="../markers/wave.png" width="66" height="44" style="padding-left:10px"><img id="bloke" src="../markers/bloke.png" width="27" height="44"></img></td>
 	</tr>
 <tr>
-	<td align="left"><p2 class="wavenote" id="peaktext"></p2></td>
 	<td align="center"><p2 class="wavenote" id="heighttext"></p2></td>
-	<td align="center"><p2 class="wavenote" id="temptext"></p2></td>
 	</tr>
 
 </div>
@@ -31,7 +27,7 @@ fetch('https://data.channelcoast.org/observations/waves/latest?key=d5eb113b868a6
     .then(data => printIt(data))
 
 let printIt = (data) => {
-    //console.info(data)
+    console.info(data)
     parse_output(data)
 }
 
@@ -48,23 +44,15 @@ do {
   x = xmlDoc.getElementsByTagName("ms:sensor")[i];
   y = x.childNodes[0];
   y = y.nodeValue;	
-} while (y !== "Boscombe");
+} while (y !== "Swanage Pier");
 h = xmlDoc.getElementsByTagName("ms:hs")[i];
 h = h.childNodes[0];
 h = h.nodeValue;
-//console.log(h);
+console.log(h);
 
 d = xmlDoc.getElementsByTagName("ms:value")[i];
 d = d.childNodes[0];
 d = d.nodeValue;
-
-t = xmlDoc.getElementsByTagName("ms:sst")[i];
-t = t.childNodes[0];
-t = t.nodeValue;
-
-p = xmlDoc.getElementsByTagName("ms:tp")[i];
-p = p.childNodes[0];
-p = p.nodeValue;
 
 Y = xmlDoc.getElementsByTagName("ms:date")[i];
 Y = Y.childNodes[0];
@@ -73,9 +61,6 @@ console.log(Y);
 
 
 waveicon(h);
-diricon(d);
-tempicon(t);
-peakicon(p);
 timeicon(Y);
 }
 
@@ -87,19 +72,6 @@ document.getElementById("wave").width = iconwidth;
 document.getElementById("heighttext").innerHTML =  Math.round(height*10)/10 + 'm'
 }
 
-function diricon(azi) {
-direction = azi + "deg";
-rot = "transform:rotate("+direction+")";
-document.getElementById("dir").style = rot;
-}
-
-function tempicon(sst) {
-document.getElementById("temptext").innerHTML = Math.round(sst*10)/10 + '&degC'
-}
-
-function peakicon(tpeak) {
-document.getElementById("peaktext").innerHTML =  Math.round(tpeak*10)/10 + 's'
-}
 
 function timeicon(DTG) {
 Da = DTG.split("#")[0];

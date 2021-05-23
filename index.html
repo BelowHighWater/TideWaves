@@ -13,6 +13,7 @@
 	<link rel="stylesheet" href="css/tabs.css" />
 	<link rel="shortcut icon" type="image/x-icon" href="markers/site-marker.png" />
 	<script src="js/leaflet.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 	
  
 </head>
@@ -26,9 +27,18 @@
 
 <script>
 
-//Base Maps from Open Street Map
-	var map = L.map('map')
+var SW = L.latLng(50.4, -2.3)
+var NE = L.latLng(50.8, -2)
+var SWmax = L.latLng(50, -3)
+var NEmax = L.latLng(52, -1)
+DorsetBounds = L.latLngBounds(NE,SW);
+maxPanning = L.latLngBounds(NEmax,SWmax);
 
+//Base Maps from Open Street Map
+	var map = L.map('map',{
+	maxBounds: maxPanning,
+	boundsViscosity: 1.0,
+})
 	Land = L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
 		maxZoom: 13,
 		minZoom: 8,
@@ -47,9 +57,7 @@
 
 	
 
-var SW = L.latLng(50.4, -2.3)
-var NE = L.latLng(50.8, -2)
-DorsetBounds = L.latLngBounds(NE,SW);
+
 
 
 map.fitBounds([DorsetBounds]);
@@ -78,19 +86,18 @@ var SiteMark = new siteflag({iconUrl:'markers/site-BHW.png'});
 
 L.control.layers(baseMaps).addTo(map);
 
-var Chesil = '<iframe src="./data/chesil.html" onload=\'javascript:(function(o){o.style.height=o.contentWindow.document.body.scrollHeight+"px";}(this));\' style="height:200px;width:100%;border:none;overflow:hidden;"></iframe>'
-//var Chesil = '<iframe src="./data/chesil.html" class=iframez frameBorder="3"></iframe>'
+var Chesil = '<iframe id="CHEZ" src="./data/chesil.html" class=iframez></iframe>'
 
+//var Resiser = 'onload= "javascript: \'jQuery(document).ready(function () {jQuery("#IDofControlFiringResizeEvent").click(function () {var frame = $(\'CHEZ\', window.parent.document);var height = jQuery("sensorframe").height();var width = jQuery("sensorframe").width();frame.height(height + 15);frame.width(width + 15);});});"'
 
 L.marker([50.60227,-2.52213],{icon: SiteMark}).bindPopup(Chesil).on('mouseover', function (e) {
             this.openPopup();
         }).on('mouseout', function (e) {
             this.closePopup();
         }).addTo(map);
-		
-		
-		
-var Boscombe = '<iframe src="./data/boscombe.html" class=iframez frameBorder="3" onload=\'javascript:console.log(document.body.scrollHeight)\'></iframe>';		
+				
+var Boscombe = '<iframe src="./data/boscombe.html" class=iframez></iframe>'
+
 L.marker([50.71157,-1.84109],{icon: SiteMark}).on('mouseover', function (e) {
             this.bindPopup(Boscombe).openPopup();
         }).on('mouseout', function (e) {
@@ -98,9 +105,33 @@ L.marker([50.71157,-1.84109],{icon: SiteMark}).on('mouseover', function (e) {
         }).addTo(map);
 		
 		
-var WestBay = '<iframe src="./data/boscombe.html" class=iframez></iframe>';
+var WestBay = '<iframe src="./data/westbay.html" class=iframez></iframe>';
 		
 L.marker([50.69393,-2.75186],{icon: SiteMark}).bindPopup(WestBay).on('mouseover', function (e) {
+            this.openPopup();
+        }).on('mouseout', function (e) {
+            this.closePopup();
+        }).addTo(map);
+
+var Milford= '<iframe src="./data/milford.html" class=iframez></iframe>';
+		
+L.marker([50.71284,-1.61490],{icon: SiteMark}).bindPopup(Milford).on('mouseover', function (e) {
+            this.openPopup();
+        }).on('mouseout', function (e) {
+            this.closePopup();
+        }).addTo(map);
+		
+var Weymouth= '<iframe src="./data/weymouth.html" class=iframez></iframe>';
+		
+L.marker([50.62298,-2.41367],{icon: SiteMark}).bindPopup(Weymouth).on('mouseover', function (e) {
+            this.openPopup();
+        }).on('mouseout', function (e) {
+            this.closePopup();
+        }).addTo(map);
+		
+var Swanage= '<iframe src="./data/swanage.html" class=iframez></iframe>';
+		
+L.marker([50.6095,-1.94785],{icon: SiteMark}).bindPopup(Swanage).on('mouseover', function (e) {
             this.openPopup();
         }).on('mouseout', function (e) {
             this.closePopup();
@@ -113,6 +144,9 @@ L.marker([50.69393,-2.75186],{icon: SiteMark}).bindPopup(WestBay).on('mouseover'
 	}, false);
 
 </script>
+
+
+
 </body>
 </html>
 

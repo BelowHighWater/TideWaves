@@ -24,6 +24,8 @@
 	width:300px;
 	height:200px;
 	resize: both;
+	frameBorder: 0;
+	border: 0;
 	overflow: no
 }
 
