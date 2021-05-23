@@ -23,9 +23,9 @@
 	loading: eager;
 	width:300px;
 	height:200px;
-	resize: both;
-	frameBorder: 0;
-	border: 0;
+	resize: no;
+	frameBorder: 0px;
+	border: 0px;
 	overflow: no
 }
 
